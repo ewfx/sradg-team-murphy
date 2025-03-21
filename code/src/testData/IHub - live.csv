@@ -1,0 +1,5 @@
+As of Date,Company,Account,AU,Currency,Primary Account,Secondary Account,GL Balance,Ihub Balance,Balance Difference,Match Status,Comments,Anomaly
+5/31/2024,00000,1619205,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,20000,35000,-15000,Break,Inconsistent variations in outstanding balances,Yes
+5/31/2024,00000,1619288,5701,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,100000,10000,90000,Break,Consistent increase or decrease in outstanding balances,No
+5/31/2024,00002,1618001,62695,USD,ALL OTHER LOANS,PRINCIPAL,60000,10000,50000,Break,Huge spike in outstanding balances,Yes
+5/31/2024,00002,1619205,4929,EUR,ALL OTHER LOANS,PRINCIPAL,70000,80000,-10000,Break,Outstanding balances are in line with previous months,No
