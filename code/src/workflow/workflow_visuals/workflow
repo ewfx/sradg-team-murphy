@@ -1,0 +1,19 @@
+digraph {
+	"Load Data" [label="Load Data"]
+	"Invoke LLM" [label="Invoke LLM"]
+	"Decision Logic When Anomaly" [label="Decision Logic When Anomaly"]
+	"Reconciler Intervention Page" [label="Reconciler Intervention Page"]
+	"No Anomaly" [label="No Anomaly"]
+	"Reconciler Action Wait" [label="Reconciler Action Wait"]
+	"Email Notification" [label="Email Notification"]
+	"Raise SR Ticket" [label="Raise SR Ticket"]
+	"Source Target System Adjustment" [label="Source Target System Adjustment"]
+	"Load Data" -> "Invoke LLM"
+	"Invoke LLM" -> "Decision Logic When Anomaly"
+	"Decision Logic When Anomaly" -> "Reconciler Intervention Page" [label="Anomaly Detected"]
+	"Decision Logic When Anomaly" -> "No Anomaly" [label="No Anomaly"]
+	"Reconciler Intervention Page" -> "Reconciler Action Wait"
+	"Reconciler Intervention Page" -> "Email Notification" [label="Email Notification"]
+	"Reconciler Intervention Page" -> "Raise SR Ticket" [label="Raise SR Ticket"]
+	"Reconciler Intervention Page" -> "Source Target System Adjustment" [label="System Adjustment"]
+}

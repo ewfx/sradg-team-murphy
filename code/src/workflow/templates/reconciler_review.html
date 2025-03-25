@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Reconciler Review</title>
+    <script>
+        function validateForm() {
+            const selectedOption = document.querySelector('input[name="action"]:checked');
+            if (!selectedOption) {
+                alert("Please select an action before submitting.");
+                return false;
+            }
+            return true;
+        }
+    </script>
+</head>
+<body>
+    <h2>Manual Review Required</h2>
+    <p><strong>Anomaly detection results:</strong> {{ llm_response }}</p>
+
+    <form action="/reconciler_review_submit" method="post" onsubmit="return validateForm();">
+        <label><input type="radio" name="action" value="email_notification"> Email Notification</label><br>
+        <label><input type="radio" name="action" value="raise_sr"> Raise SR Ticket</label><br>
+        <label><input type="radio" name="action" value="source_target_system_adjustment"> Source/Target System Adjustment</label><br><br>
+        <button type="submit">Submit</button>
+    </form>
+</body>
+</html>
