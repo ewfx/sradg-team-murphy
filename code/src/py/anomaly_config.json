@@ -1,7 +1,7 @@
 {
-    "api_key": "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",
-    "gemini_api_key": "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",
-    "mistral_key": "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",
+    "api_key": "",
+    "gemini_api_key": "",
+    "mistral_key": "",
     "gemini_llm": "google/gemini-2.5-pro-exp-03-25:free",
     "base_url": "https://openrouter.ai/api/v1",
     "llm_model": "meta-llama/llama-3.3-70b-instruct:free",
