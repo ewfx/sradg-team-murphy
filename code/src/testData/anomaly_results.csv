@@ -1,0 +1,101 @@
+date,company_number,account,AU,currency,primary_account,secondary_account,gl_balance,ihb_balance,difference,match_status,Anomaly,Comments,tolerance,calculated_match_status,Anomaly_Score,Detected_Anomaly,Anomaly_Match
+2023-09-30,1111,1634789,6783,0,0,1,11834,11834,0,match,No,Outstanding balances are in line with previous months,59.17,match,1,No,True
+2023-10-30,1111,1634789,6783,0,0,1,36936,36936,0,match,No,Outstanding balances are in line with previous months,184.68,match,1,No,True
+2023-11-29,1111,1634789,6783,0,0,1,41359,41359,0,match,No,Outstanding balances are in line with previous months,206.79500000000002,match,1,No,True
+2023-12-29,1111,1634789,6783,0,0,1,13993,13993,0,match,No,Outstanding balances are in line with previous months,69.965,match,1,No,True
+2024-01-28,1111,1634789,6783,0,0,1,15999,15999,0,match,No,Outstanding balances are in line with previous months,79.995,match,1,No,True
+2024-02-27,1111,1634789,6783,0,0,1,11116,11116,0,match,No,Outstanding balances are in line with previous months,55.58,match,1,No,True
+2023-09-30,1111,1623456,5402,1,0,0,48518,47709,809,break,Yes,Inconsistent variations in outstanding balances,242.59,break,1,No,False
+2023-10-30,1111,1623456,5402,1,0,0,19328,18825,503,break,Yes,Inconsistent variations in outstanding balances,96.64,break,1,No,False
+2023-11-29,1111,1623456,5402,1,0,0,19266,18326,940,break,Yes,Inconsistent variations in outstanding balances,96.33,break,1,No,False
+2023-12-29,1111,1623456,5402,1,0,0,12985,13846,-861,break,Yes,Inconsistent variations in outstanding balances,64.925,break,1,No,False
+2024-01-28,1111,1623456,5402,1,0,0,37508,37809,-301,break,Yes,Inconsistent variations in outstanding balances,187.54,break,1,No,False
+2024-02-27,1111,1623456,5402,1,0,0,43040,42921,119,break,Yes,Inconsistent variations in outstanding balances,215.20000000000002,match,1,No,False
+2023-09-30,0,1623456,6783,0,0,1,43662,43662,0,match,No,Outstanding balances are in line with previous months,218.31,match,1,No,True
+2023-10-30,0,1623456,6783,0,0,1,34953,34953,0,match,No,Outstanding balances are in line with previous months,174.76500000000001,match,1,No,True
+2023-11-29,0,1623456,6783,0,0,1,16353,16353,0,match,No,Outstanding balances are in line with previous months,81.765,match,1,No,True
+2023-12-29,0,1623456,6783,0,0,1,32354,32354,0,match,No,Outstanding balances are in line with previous months,161.77,match,1,No,True
+2024-01-28,0,1623456,6783,0,0,1,22697,22697,0,match,No,Outstanding balances are in line with previous months,113.485,match,1,No,True
+2024-02-27,0,1623456,6783,0,0,1,17919,17919,0,match,No,Outstanding balances are in line with previous months,89.595,match,1,No,True
+2023-09-30,0,1623456,4398,1,0,0,31095,31095,0,match,No,Outstanding balances are in line with previous months,155.475,match,1,No,True
+2023-10-30,0,1623456,4398,1,0,0,11469,11469,0,match,No,Outstanding balances are in line with previous months,57.345,match,1,No,True
+2023-11-29,0,1623456,4398,1,0,0,27707,27707,0,match,No,Outstanding balances are in line with previous months,138.535,match,1,No,True
+2023-12-29,0,1623456,4398,1,0,0,46287,46287,0,match,No,Outstanding balances are in line with previous months,231.435,match,1,No,True
+2024-01-28,0,1623456,4398,1,0,0,29205,29205,0,match,No,Outstanding balances are in line with previous months,146.025,match,1,No,True
+2024-02-27,0,1623456,4398,1,0,0,47021,47021,0,match,No,Outstanding balances are in line with previous months,235.10500000000002,match,1,No,True
+2023-09-30,0,1634789,5402,0,0,2,18170,18170,0,match,No,Outstanding balances are in line with previous months,90.85000000000001,match,1,No,True
+2023-10-30,0,1634789,5402,0,0,2,34932,34932,0,match,No,Outstanding balances are in line with previous months,174.66,match,1,No,True
+2023-11-29,0,1634789,5402,0,0,2,32958,32958,0,match,No,Outstanding balances are in line with previous months,164.79,match,1,No,True
+2023-12-29,0,1634789,5402,0,0,2,33171,33171,0,match,No,Outstanding balances are in line with previous months,165.855,match,1,No,True
+2024-01-28,0,1634789,5402,0,0,2,22955,22955,0,match,No,Outstanding balances are in line with previous months,114.775,match,1,No,True
+2024-02-27,0,1634789,5402,0,0,2,11851,11851,0,match,No,Outstanding balances are in line with previous months,59.255,match,1,No,True
+2023-09-30,0,1619205,4398,0,0,1,25515,25515,0,match,No,Outstanding balances are in line with previous months,127.575,match,1,No,True
+2023-10-30,0,1619205,4398,0,0,1,31313,31313,0,match,No,Outstanding balances are in line with previous months,156.565,match,1,No,True
+2023-11-29,0,1619205,4398,0,0,1,10849,10849,0,match,No,Outstanding balances are in line with previous months,54.245000000000005,match,1,No,True
+2023-12-29,0,1619205,4398,0,0,1,44888,44888,0,match,No,Outstanding balances are in line with previous months,224.44,match,1,No,True
+2024-01-28,0,1619205,4398,0,0,1,43075,43075,0,match,No,Outstanding balances are in line with previous months,215.375,match,1,No,True
+2024-02-27,0,1619205,4398,0,0,1,38485,38485,0,match,No,Outstanding balances are in line with previous months,192.425,match,1,No,True
+2023-09-30,1111,1623456,4398,0,0,0,40186,40186,0,match,No,Outstanding balances are in line with previous months,200.93,match,1,No,True
+2023-10-30,1111,1623456,4398,0,0,0,10444,10444,0,match,No,Outstanding balances are in line with previous months,52.22,match,1,No,True
+2023-11-29,1111,1623456,4398,0,0,0,49407,49407,0,match,No,Outstanding balances are in line with previous months,247.035,match,1,No,True
+2023-12-29,1111,1623456,4398,0,0,0,34014,34014,0,match,No,Outstanding balances are in line with previous months,170.07,match,1,No,True
+2024-01-28,1111,1623456,4398,0,0,0,32780,32780,0,match,No,Outstanding balances are in line with previous months,163.9,match,1,No,True
+2024-02-27,1111,1623456,4398,0,0,0,47283,47283,0,match,No,Outstanding balances are in line with previous months,236.415,match,1,No,True
+2023-09-30,2222,1619205,6783,0,0,0,16279,16279,0,match,No,Outstanding balances are in line with previous months,81.395,match,1,No,True
+2023-10-30,2222,1619205,6783,0,0,0,41866,41866,0,match,No,Outstanding balances are in line with previous months,209.33,match,1,No,True
+2023-11-29,2222,1619205,6783,0,0,0,19560,19560,0,match,No,Outstanding balances are in line with previous months,97.8,match,1,No,True
+2023-12-29,2222,1619205,6783,0,0,0,37087,37087,0,match,No,Outstanding balances are in line with previous months,185.435,match,1,No,True
+2024-01-28,2222,1619205,6783,0,0,0,12447,12447,0,match,No,Outstanding balances are in line with previous months,62.235,match,1,No,True
+2024-02-27,2222,1619205,6783,0,0,0,46048,46048,0,match,No,Outstanding balances are in line with previous months,230.24,match,1,No,True
+2023-09-30,0,1623456,4398,1,0,1,31340,31340,0,match,No,Outstanding balances are in line with previous months,156.70000000000002,match,1,No,True
+2023-10-30,0,1623456,4398,1,0,1,25937,25937,0,match,No,Outstanding balances are in line with previous months,129.685,match,1,No,True
+2023-11-29,0,1623456,4398,1,0,1,37413,37413,0,match,No,Outstanding balances are in line with previous months,187.065,match,1,No,True
+2023-12-29,0,1623456,4398,1,0,1,46324,46324,0,match,No,Outstanding balances are in line with previous months,231.62,match,1,No,True
+2024-01-28,0,1623456,4398,1,0,1,43167,43167,0,match,No,Outstanding balances are in line with previous months,215.835,match,1,No,True
+2024-02-27,0,1623456,4398,1,0,1,17621,17621,0,match,No,Outstanding balances are in line with previous months,88.105,match,1,No,True
+2023-09-30,2222,1619205,6783,0,0,0,47060,47675,-615,break,Yes,Inconsistent variations in outstanding balances,235.3,break,1,No,False
+2023-10-30,2222,1619205,6783,0,0,0,30643,30720,-77,break,Yes,Inconsistent variations in outstanding balances,153.215,match,1,No,False
+2023-11-29,2222,1619205,6783,0,0,0,44403,44987,-584,break,Yes,Inconsistent variations in outstanding balances,222.01500000000001,break,1,No,False
+2023-12-29,2222,1619205,6783,0,0,0,44903,44366,537,break,Yes,Inconsistent variations in outstanding balances,224.51500000000001,break,1,No,False
+2024-01-28,2222,1619205,6783,0,0,0,39605,38700,905,break,Yes,Inconsistent variations in outstanding balances,198.025,break,1,No,False
+2024-02-27,2222,1619205,6783,0,0,0,38147,38365,-218,break,Yes,Inconsistent variations in outstanding balances,190.735,break,1,No,False
+2023-09-30,0,1634789,6783,0,0,2,25599,25599,0,match,No,Outstanding balances are in line with previous months,127.995,match,1,No,True
+2023-10-30,0,1634789,6783,0,0,2,45593,45593,0,match,No,Outstanding balances are in line with previous months,227.965,match,1,No,True
+2023-11-29,0,1634789,6783,0,0,2,36464,36464,0,match,No,Outstanding balances are in line with previous months,182.32,match,1,No,True
+2023-12-29,0,1634789,6783,0,0,2,15902,15902,0,match,No,Outstanding balances are in line with previous months,79.51,match,1,No,True
+2024-01-28,0,1634789,6783,0,0,2,27197,27197,0,match,No,Outstanding balances are in line with previous months,135.985,match,1,No,True
+2024-02-27,0,1634789,6783,0,0,2,43413,34579,8834,break,Yes,Sudden drop in IHub balance,217.065,break,1,No,False
+2023-09-30,0,1623456,4398,1,0,0,20108,20108,0,match,No,Outstanding balances are in line with previous months,100.54,match,1,No,True
+2023-10-30,0,1623456,4398,1,0,0,46752,46752,0,match,No,Outstanding balances are in line with previous months,233.76,match,1,No,True
+2023-11-29,0,1623456,4398,1,0,0,12735,12735,0,match,No,Outstanding balances are in line with previous months,63.675000000000004,match,1,No,True
+2023-12-29,0,1623456,4398,1,0,0,22862,22862,0,match,No,Outstanding balances are in line with previous months,114.31,match,1,No,True
+2024-01-28,0,1623456,4398,1,0,0,42665,42665,0,match,No,Outstanding balances are in line with previous months,213.32500000000002,match,1,No,True
+2024-02-27,0,1623456,4398,1,0,0,28127,35805,-7678,break,Yes,Huge spike in outstanding balances,140.635,break,1,No,False
+2023-09-30,2222,1623456,6783,1,0,0,32067,32067,0,match,No,Outstanding balances are in line with previous months,160.335,match,1,No,True
+2023-10-30,2222,1623456,6783,1,0,0,15085,15085,0,match,No,Outstanding balances are in line with previous months,75.425,match,1,No,True
+2023-11-29,2222,1623456,6783,1,0,0,20078,20078,0,match,No,Outstanding balances are in line with previous months,100.39,match,1,No,True
+2023-12-29,2222,1623456,6783,1,0,0,34772,34772,0,match,No,Outstanding balances are in line with previous months,173.86,match,1,No,True
+2024-01-28,2222,1623456,6783,1,0,0,37772,37772,0,match,No,Outstanding balances are in line with previous months,188.86,match,1,No,True
+2024-02-27,2222,1623456,6783,1,0,0,15897,2815,13082,break,Yes,Sudden drop in IHub balance,79.485,break,1,No,False
+2023-09-30,0,1634789,5402,1,0,0,13690,13690,0,match,No,Outstanding balances are in line with previous months,68.45,match,1,No,True
+2023-10-30,0,1634789,5402,1,0,0,16504,16504,0,match,No,Outstanding balances are in line with previous months,82.52,match,1,No,True
+2023-11-29,0,1634789,5402,1,0,0,20203,20203,0,match,No,Outstanding balances are in line with previous months,101.015,match,1,No,True
+2023-12-29,0,1634789,5402,1,0,0,17034,17034,0,match,No,Outstanding balances are in line with previous months,85.17,match,1,No,True
+2024-01-28,0,1634789,5402,1,0,0,11771,11771,0,match,No,Outstanding balances are in line with previous months,58.855000000000004,match,1,No,True
+2024-02-27,0,1634789,5402,1,0,0,44171,55473,-11302,break,Yes,Huge spike in outstanding balances,220.85500000000002,break,1,No,False
+2023-09-30,0,1634789,4398,0,0,2,29535,29535,0,match,No,Outstanding balances are in line with previous months,147.675,match,1,No,True
+2023-10-30,0,1634789,4398,0,0,2,11984,11984,0,match,No,Outstanding balances are in line with previous months,59.92,match,1,No,True
+2023-11-29,0,1634789,4398,0,0,2,39300,39300,0,match,No,Outstanding balances are in line with previous months,196.5,match,1,No,True
+2023-12-29,0,1634789,4398,0,0,2,10395,10395,0,match,No,Outstanding balances are in line with previous months,51.975,match,1,No,True
+2024-01-28,0,1634789,4398,0,0,2,43767,43767,0,match,No,Outstanding balances are in line with previous months,218.835,match,1,No,True
+2024-02-27,0,1634789,4398,0,0,2,38326,38326,0,match,No,Outstanding balances are in line with previous months,191.63,match,1,No,True
+2023-09-30,2222,1619205,6783,1,0,0,38270,38270,0,match,No,Outstanding balances are in line with previous months,191.35,match,1,No,True
+2023-10-30,2222,1619205,6783,1,0,0,32248,32248,0,match,No,Outstanding balances are in line with previous months,161.24,match,1,No,True
+2023-11-29,2222,1619205,6783,1,0,0,37657,37657,0,match,No,Outstanding balances are in line with previous months,188.285,match,1,No,True
+2023-12-29,2222,1619205,6783,1,0,0,36147,36147,0,match,No,Outstanding balances are in line with previous months,180.735,match,1,No,True
+2024-01-28,2222,1619205,6783,1,0,0,35231,35231,0,match,No,Outstanding balances are in line with previous months,176.155,match,1,No,True
+2024-02-27,2222,1619205,6783,1,0,0,27497,27497,0,match,No,Outstanding balances are in line with previous months,137.485,match,1,No,True
+2023-09-30,0,1619205,4398,1,0,0,25960,25960,0,match,No,Outstanding balances are in line with previous months,129.8,match,1,No,True
+2023-10-30,0,1619205,4398,1,0,0,36514,36514,0,match,No,Outstanding balances are in line with previous months,182.57,match,1,No,True
+2023-11-29,0,1619205,4398,1,0,0,41404,41404,0,match,No,Outstanding balances are in line with previous months,207.02,match,1,No,True
+2023-12-29,0,1619205,4398,1,0,0,38885,38885,0,match,No,Outstanding balances are in line with previous months,194.425,match,1,No,True

@@ -1,0 +1,2 @@
+company_number,account,AU,currency,primary_account,secondary_account,gl_balance,ihb_balance,difference,match_status
+1111,1634789,6783,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,20000,0,20000,break

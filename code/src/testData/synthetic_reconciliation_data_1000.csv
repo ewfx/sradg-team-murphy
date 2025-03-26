@@ -1,0 +1,1001 @@
+As of Date,Company,Account,AU,Currency,Primary Account,Secondary Account,GL Balance,IHub Balance,Balance Difference,Match Status,Anomaly,Comments
+2023-09-30,1111,1619205,6783,EUR,ALL OTHER LOANS,PRINCIPAL,39429,39358,71,break,Yes,Inconsistent variations in outstanding balances
+2023-10-30,1111,1619205,6783,EUR,ALL OTHER LOANS,PRINCIPAL,11983,11979,4,break,Yes,Inconsistent variations in outstanding balances
+2023-11-29,1111,1619205,6783,EUR,ALL OTHER LOANS,PRINCIPAL,10808,10741,67,break,Yes,Inconsistent variations in outstanding balances
+2023-12-29,1111,1619205,6783,EUR,ALL OTHER LOANS,PRINCIPAL,22980,23556,-576,break,Yes,Inconsistent variations in outstanding balances
+2024-01-28,1111,1619205,6783,EUR,ALL OTHER LOANS,PRINCIPAL,45798,45537,261,break,Yes,Inconsistent variations in outstanding balances
+2024-02-27,1111,1619205,6783,EUR,ALL OTHER LOANS,PRINCIPAL,38032,38407,-375,break,Yes,Inconsistent variations in outstanding balances
+2023-09-30,1111,1623456,5402,USD,ALL OTHER LOANS,DEFERRED COSTS,29401,29401,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,1111,1623456,5402,USD,ALL OTHER LOANS,DEFERRED COSTS,49328,49328,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,1111,1623456,5402,USD,ALL OTHER LOANS,DEFERRED COSTS,14446,14446,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,1111,1623456,5402,USD,ALL OTHER LOANS,DEFERRED COSTS,22939,22939,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,1111,1623456,5402,USD,ALL OTHER LOANS,DEFERRED COSTS,17266,17266,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,1111,1623456,5402,USD,ALL OTHER LOANS,DEFERRED COSTS,14189,7828,6361,break,Yes,Sudden drop in IHub balance
+2023-09-30,0000,1634789,4398,USD,ALL OTHER LOANS,PRINCIPAL,36182,36704,-522,break,Yes,Inconsistent variations in outstanding balances
+2023-10-30,0000,1634789,4398,USD,ALL OTHER LOANS,PRINCIPAL,35749,35312,437,break,Yes,Inconsistent variations in outstanding balances
+2023-11-29,0000,1634789,4398,USD,ALL OTHER LOANS,PRINCIPAL,39833,39266,567,break,Yes,Inconsistent variations in outstanding balances
+2023-12-29,0000,1634789,4398,USD,ALL OTHER LOANS,PRINCIPAL,29702,29972,-270,break,Yes,Inconsistent variations in outstanding balances
+2024-01-28,0000,1634789,4398,USD,ALL OTHER LOANS,PRINCIPAL,47039,46589,450,break,Yes,Inconsistent variations in outstanding balances
+2024-02-27,0000,1634789,4398,USD,ALL OTHER LOANS,PRINCIPAL,28351,28332,19,break,Yes,Inconsistent variations in outstanding balances
+2023-09-30,1111,1619205,4398,USD,ALL OTHER LOANS,PRINCIPAL,34826,34826,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,1111,1619205,4398,USD,ALL OTHER LOANS,PRINCIPAL,15696,15696,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,1111,1619205,4398,USD,ALL OTHER LOANS,PRINCIPAL,15634,15634,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,1111,1619205,4398,USD,ALL OTHER LOANS,PRINCIPAL,24399,24399,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,1111,1619205,4398,USD,ALL OTHER LOANS,PRINCIPAL,47665,47665,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,1111,1619205,4398,USD,ALL OTHER LOANS,PRINCIPAL,21182,21182,0,match,No,Outstanding balances are in line with previous months
+2023-09-30,2222,1619205,5402,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,17688,17688,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,2222,1619205,5402,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,23524,23524,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,2222,1619205,5402,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,36569,36569,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,2222,1619205,5402,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,16719,16719,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,2222,1619205,5402,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,43560,43560,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,2222,1619205,5402,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,17058,25416,-8358,break,Yes,Huge spike in outstanding balances
+2023-09-30,2222,1634789,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,28821,28821,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,2222,1634789,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,14021,14021,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,2222,1634789,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,16862,16862,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,2222,1634789,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,49465,49465,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,2222,1634789,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,40476,40476,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,2222,1634789,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,28660,28660,0,match,No,Outstanding balances are in line with previous months
+2023-09-30,0000,1634789,6783,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,10924,10924,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,0000,1634789,6783,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,43619,43619,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,0000,1634789,6783,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,20042,20042,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,0000,1634789,6783,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,47648,47648,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,0000,1634789,6783,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,23847,23847,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,0000,1634789,6783,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,49961,61515,-11554,break,Yes,Huge spike in outstanding balances
+2023-09-30,2222,1623456,4398,EUR,ALL OTHER LOANS,DEFERRED COSTS,44961,44961,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,2222,1623456,4398,EUR,ALL OTHER LOANS,DEFERRED COSTS,28967,28967,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,2222,1623456,4398,EUR,ALL OTHER LOANS,DEFERRED COSTS,21305,21305,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,2222,1623456,4398,EUR,ALL OTHER LOANS,DEFERRED COSTS,40602,40602,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,2222,1623456,4398,EUR,ALL OTHER LOANS,DEFERRED COSTS,41585,41585,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,2222,1623456,4398,EUR,ALL OTHER LOANS,DEFERRED COSTS,40636,40636,0,match,No,Outstanding balances are in line with previous months
+2023-09-30,2222,1623456,5402,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,22039,22039,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,2222,1623456,5402,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,37585,37585,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,2222,1623456,5402,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,48388,48388,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,2222,1623456,5402,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,45786,45786,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,2222,1623456,5402,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,40895,40895,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,2222,1623456,5402,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,33041,33041,0,match,No,Outstanding balances are in line with previous months
+2023-09-30,1111,1623456,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,12410,12410,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,1111,1623456,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,46962,46962,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,1111,1623456,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,48026,48026,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,1111,1623456,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,22027,22027,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,1111,1623456,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,47712,47712,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,1111,1623456,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,49575,49575,0,match,No,Outstanding balances are in line with previous months
+2023-09-30,0000,1623456,4398,EUR,ALL OTHER LOANS,PRINCIPAL,24396,24396,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,0000,1623456,4398,EUR,ALL OTHER LOANS,PRINCIPAL,46756,46756,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,0000,1623456,4398,EUR,ALL OTHER LOANS,PRINCIPAL,27006,27006,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,0000,1623456,4398,EUR,ALL OTHER LOANS,PRINCIPAL,15254,15254,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,0000,1623456,4398,EUR,ALL OTHER LOANS,PRINCIPAL,40987,40987,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,0000,1623456,4398,EUR,ALL OTHER LOANS,PRINCIPAL,37359,37359,0,match,No,Outstanding balances are in line with previous months
+2023-09-30,0000,1623456,5402,EUR,ALL OTHER LOANS,DEFERRED COSTS,22175,22175,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,0000,1623456,5402,EUR,ALL OTHER LOANS,DEFERRED COSTS,13440,13440,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,0000,1623456,5402,EUR,ALL OTHER LOANS,DEFERRED COSTS,43538,43538,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,0000,1623456,5402,EUR,ALL OTHER LOANS,DEFERRED COSTS,10116,10116,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,0000,1623456,5402,EUR,ALL OTHER LOANS,DEFERRED COSTS,45998,45998,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,0000,1623456,5402,EUR,ALL OTHER LOANS,DEFERRED COSTS,47102,47102,0,match,No,Outstanding balances are in line with previous months
+2023-09-30,0000,1623456,5402,EUR,ALL OTHER LOANS,DEFERRED COSTS,29505,29505,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,0000,1623456,5402,EUR,ALL OTHER LOANS,DEFERRED COSTS,45959,45959,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,0000,1623456,5402,EUR,ALL OTHER LOANS,DEFERRED COSTS,49849,49849,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,0000,1623456,5402,EUR,ALL OTHER LOANS,DEFERRED COSTS,13737,13737,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,0000,1623456,5402,EUR,ALL OTHER LOANS,DEFERRED COSTS,48301,48301,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,0000,1623456,5402,EUR,ALL OTHER LOANS,DEFERRED COSTS,38216,24441,13775,break,Yes,Sudden drop in IHub balance
+2023-09-30,1111,1634789,5402,EUR,ALL OTHER LOANS,PRINCIPAL,27307,27307,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,1111,1634789,5402,EUR,ALL OTHER LOANS,PRINCIPAL,31705,31705,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,1111,1634789,5402,EUR,ALL OTHER LOANS,PRINCIPAL,34095,34095,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,1111,1634789,5402,EUR,ALL OTHER LOANS,PRINCIPAL,10354,10354,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,1111,1634789,5402,EUR,ALL OTHER LOANS,PRINCIPAL,26090,26090,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,1111,1634789,5402,EUR,ALL OTHER LOANS,PRINCIPAL,23540,23540,0,match,No,Outstanding balances are in line with previous months
+2023-09-30,2222,1634789,6783,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,46383,46383,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,2222,1634789,6783,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,48662,48662,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,2222,1634789,6783,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,33003,33003,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,2222,1634789,6783,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,38733,38733,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,2222,1634789,6783,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,15820,15820,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,2222,1634789,6783,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,20187,20187,0,match,No,Outstanding balances are in line with previous months
+2023-09-30,2222,1619205,4398,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,14818,14818,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,2222,1619205,4398,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,16302,16302,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,2222,1619205,4398,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,10451,10451,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,2222,1619205,4398,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,49708,49708,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,2222,1619205,4398,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,17850,17850,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,2222,1619205,4398,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,21437,21437,0,match,No,Outstanding balances are in line with previous months
+2023-09-30,1111,1634789,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,36104,36104,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,1111,1634789,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,45781,45781,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,1111,1634789,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,16614,16614,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,1111,1634789,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,23561,23561,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,1111,1634789,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,37403,37403,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,1111,1634789,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,23866,33706,-9840,break,Yes,Huge spike in outstanding balances
+2023-09-30,1111,1634789,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,22481,22481,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,1111,1634789,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,15024,15024,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,1111,1634789,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,19824,19824,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,1111,1634789,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,24762,24762,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,1111,1634789,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,16596,16596,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,1111,1634789,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,44223,44223,0,match,No,Outstanding balances are in line with previous months
+2023-09-30,2222,1619205,6783,EUR,ALL OTHER LOANS,DEFERRED COSTS,31760,31760,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,2222,1619205,6783,EUR,ALL OTHER LOANS,DEFERRED COSTS,44197,44197,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,2222,1619205,6783,EUR,ALL OTHER LOANS,DEFERRED COSTS,26293,26293,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,2222,1619205,6783,EUR,ALL OTHER LOANS,DEFERRED COSTS,12025,12025,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,2222,1619205,6783,EUR,ALL OTHER LOANS,DEFERRED COSTS,13583,13583,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,2222,1619205,6783,EUR,ALL OTHER LOANS,DEFERRED COSTS,13571,13571,0,match,No,Outstanding balances are in line with previous months
+2023-09-30,0000,1623456,6783,USD,ALL OTHER LOANS,DEFERRED COSTS,13587,12706,881,break,Yes,Inconsistent variations in outstanding balances
+2023-10-30,0000,1623456,6783,USD,ALL OTHER LOANS,DEFERRED COSTS,26361,25815,546,break,Yes,Inconsistent variations in outstanding balances
+2023-11-29,0000,1623456,6783,USD,ALL OTHER LOANS,DEFERRED COSTS,28969,29298,-329,break,Yes,Inconsistent variations in outstanding balances
+2023-12-29,0000,1623456,6783,USD,ALL OTHER LOANS,DEFERRED COSTS,17812,17648,164,break,Yes,Inconsistent variations in outstanding balances
+2024-01-28,0000,1623456,6783,USD,ALL OTHER LOANS,DEFERRED COSTS,17127,16850,277,break,Yes,Inconsistent variations in outstanding balances
+2024-02-27,0000,1623456,6783,USD,ALL OTHER LOANS,DEFERRED COSTS,28324,28888,-564,break,Yes,Inconsistent variations in outstanding balances
+2023-09-30,2222,1619205,5402,USD,ALL OTHER LOANS,DEFERRED COSTS,26045,26045,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,2222,1619205,5402,USD,ALL OTHER LOANS,DEFERRED COSTS,29387,29387,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,2222,1619205,5402,USD,ALL OTHER LOANS,DEFERRED COSTS,44937,44937,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,2222,1619205,5402,USD,ALL OTHER LOANS,DEFERRED COSTS,35903,35903,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,2222,1619205,5402,USD,ALL OTHER LOANS,DEFERRED COSTS,35615,35615,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,2222,1619205,5402,USD,ALL OTHER LOANS,DEFERRED COSTS,46469,46469,0,match,No,Outstanding balances are in line with previous months
+2023-09-30,0000,1619205,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,33504,33504,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,0000,1619205,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,22105,22105,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,0000,1619205,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,16693,16693,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,0000,1619205,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,13523,13523,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,0000,1619205,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,24246,24246,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,0000,1619205,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,22466,17058,5408,break,Yes,Sudden drop in IHub balance
+2023-09-30,0000,1634789,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,38093,38093,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,0000,1634789,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,34471,34471,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,0000,1634789,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,22774,22774,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,0000,1634789,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,30176,30176,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,0000,1634789,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,30755,30755,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,0000,1634789,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,30800,17977,12823,break,Yes,Sudden drop in IHub balance
+2023-09-30,0000,1623456,6783,EUR,ALL OTHER LOANS,DEFERRED COSTS,25871,25871,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,0000,1623456,6783,EUR,ALL OTHER LOANS,DEFERRED COSTS,14235,14235,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,0000,1623456,6783,EUR,ALL OTHER LOANS,DEFERRED COSTS,13033,13033,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,0000,1623456,6783,EUR,ALL OTHER LOANS,DEFERRED COSTS,28954,28954,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,0000,1623456,6783,EUR,ALL OTHER LOANS,DEFERRED COSTS,33209,33209,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,0000,1623456,6783,EUR,ALL OTHER LOANS,DEFERRED COSTS,19831,19831,0,match,No,Outstanding balances are in line with previous months
+2023-09-30,1111,1619205,6783,USD,ALL OTHER LOANS,PRINCIPAL,45256,45256,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,1111,1619205,6783,USD,ALL OTHER LOANS,PRINCIPAL,41740,41740,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,1111,1619205,6783,USD,ALL OTHER LOANS,PRINCIPAL,11556,11556,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,1111,1619205,6783,USD,ALL OTHER LOANS,PRINCIPAL,42021,42021,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,1111,1619205,6783,USD,ALL OTHER LOANS,PRINCIPAL,44507,44507,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,1111,1619205,6783,USD,ALL OTHER LOANS,PRINCIPAL,13644,13644,0,match,No,Outstanding balances are in line with previous months
+2023-09-30,0000,1619205,6783,EUR,ALL OTHER LOANS,PRINCIPAL,21926,21926,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,0000,1619205,6783,EUR,ALL OTHER LOANS,PRINCIPAL,41867,41867,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,0000,1619205,6783,EUR,ALL OTHER LOANS,PRINCIPAL,16569,16569,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,0000,1619205,6783,EUR,ALL OTHER LOANS,PRINCIPAL,35830,35830,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,0000,1619205,6783,EUR,ALL OTHER LOANS,PRINCIPAL,30223,30223,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,0000,1619205,6783,EUR,ALL OTHER LOANS,PRINCIPAL,17854,17854,0,match,No,Outstanding balances are in line with previous months
+2023-09-30,0000,1623456,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,20864,20864,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,0000,1623456,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,20712,20712,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,0000,1623456,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,39286,39286,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,0000,1623456,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,11773,11773,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,0000,1623456,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,22936,22936,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,0000,1623456,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,30719,44496,-13777,break,Yes,Huge spike in outstanding balances
+2023-09-30,0000,1619205,5402,EUR,ALL OTHER LOANS,DEFERRED COSTS,11431,11431,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,0000,1619205,5402,EUR,ALL OTHER LOANS,DEFERRED COSTS,22624,22624,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,0000,1619205,5402,EUR,ALL OTHER LOANS,DEFERRED COSTS,41704,41704,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,0000,1619205,5402,EUR,ALL OTHER LOANS,DEFERRED COSTS,38921,38921,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,0000,1619205,5402,EUR,ALL OTHER LOANS,DEFERRED COSTS,36262,36262,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,0000,1619205,5402,EUR,ALL OTHER LOANS,DEFERRED COSTS,32717,44229,-11512,break,Yes,Huge spike in outstanding balances
+2023-09-30,1111,1623456,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,16505,17310,-805,break,Yes,Inconsistent variations in outstanding balances
+2023-10-30,1111,1623456,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,37719,37140,579,break,Yes,Inconsistent variations in outstanding balances
+2023-11-29,1111,1623456,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,11833,11756,77,break,Yes,Inconsistent variations in outstanding balances
+2023-12-29,1111,1623456,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,23033,22229,804,break,Yes,Inconsistent variations in outstanding balances
+2024-01-28,1111,1623456,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,49655,50632,-977,break,Yes,Inconsistent variations in outstanding balances
+2024-02-27,1111,1623456,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,12370,12950,-580,break,Yes,Inconsistent variations in outstanding balances
+2023-09-30,2222,1619205,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,15899,15349,550,break,Yes,Inconsistent variations in outstanding balances
+2023-10-30,2222,1619205,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,41935,42576,-641,break,Yes,Inconsistent variations in outstanding balances
+2023-11-29,2222,1619205,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,23744,23252,492,break,Yes,Inconsistent variations in outstanding balances
+2023-12-29,2222,1619205,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,29943,29534,409,break,Yes,Inconsistent variations in outstanding balances
+2024-01-28,2222,1619205,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,37100,37486,-386,break,Yes,Inconsistent variations in outstanding balances
+2024-02-27,2222,1619205,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,49365,49461,-96,break,Yes,Inconsistent variations in outstanding balances
+2023-09-30,2222,1634789,5402,USD,ALL OTHER LOANS,DEFERRED COSTS,47592,47592,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,2222,1634789,5402,USD,ALL OTHER LOANS,DEFERRED COSTS,30308,30308,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,2222,1634789,5402,USD,ALL OTHER LOANS,DEFERRED COSTS,31431,31431,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,2222,1634789,5402,USD,ALL OTHER LOANS,DEFERRED COSTS,13408,13408,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,2222,1634789,5402,USD,ALL OTHER LOANS,DEFERRED COSTS,25708,25708,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,2222,1634789,5402,USD,ALL OTHER LOANS,DEFERRED COSTS,11995,-1252,13247,break,Yes,Sudden drop in IHub balance
+2023-09-30,2222,1634789,4398,USD,ALL OTHER LOANS,PRINCIPAL,16337,16634,-297,break,Yes,Inconsistent variations in outstanding balances
+2023-10-30,2222,1634789,4398,USD,ALL OTHER LOANS,PRINCIPAL,43830,44126,-296,break,Yes,Inconsistent variations in outstanding balances
+2023-11-29,2222,1634789,4398,USD,ALL OTHER LOANS,PRINCIPAL,22544,22234,310,break,Yes,Inconsistent variations in outstanding balances
+2023-12-29,2222,1634789,4398,USD,ALL OTHER LOANS,PRINCIPAL,16428,15779,649,break,Yes,Inconsistent variations in outstanding balances
+2024-01-28,2222,1634789,4398,USD,ALL OTHER LOANS,PRINCIPAL,48064,48615,-551,break,Yes,Inconsistent variations in outstanding balances
+2024-02-27,2222,1634789,4398,USD,ALL OTHER LOANS,PRINCIPAL,45196,45722,-526,break,Yes,Inconsistent variations in outstanding balances
+2023-09-30,2222,1623456,5402,EUR,ALL OTHER LOANS,DEFERRED COSTS,16231,16231,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,2222,1623456,5402,EUR,ALL OTHER LOANS,DEFERRED COSTS,20756,20756,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,2222,1623456,5402,EUR,ALL OTHER LOANS,DEFERRED COSTS,22241,22241,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,2222,1623456,5402,EUR,ALL OTHER LOANS,DEFERRED COSTS,43029,43029,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,2222,1623456,5402,EUR,ALL OTHER LOANS,DEFERRED COSTS,23532,23532,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,2222,1623456,5402,EUR,ALL OTHER LOANS,DEFERRED COSTS,42843,34247,8596,break,Yes,Sudden drop in IHub balance
+2023-09-30,1111,1623456,5402,USD,ALL OTHER LOANS,DEFERRED COSTS,29631,29631,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,1111,1623456,5402,USD,ALL OTHER LOANS,DEFERRED COSTS,27359,27359,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,1111,1623456,5402,USD,ALL OTHER LOANS,DEFERRED COSTS,38541,38541,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,1111,1623456,5402,USD,ALL OTHER LOANS,DEFERRED COSTS,45216,45216,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,1111,1623456,5402,USD,ALL OTHER LOANS,DEFERRED COSTS,11135,11135,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,1111,1623456,5402,USD,ALL OTHER LOANS,DEFERRED COSTS,48037,59283,-11246,break,Yes,Huge spike in outstanding balances
+2023-09-30,0000,1623456,6783,EUR,ALL OTHER LOANS,DEFERRED COSTS,20847,20847,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,0000,1623456,6783,EUR,ALL OTHER LOANS,DEFERRED COSTS,48212,48212,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,0000,1623456,6783,EUR,ALL OTHER LOANS,DEFERRED COSTS,16777,16777,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,0000,1623456,6783,EUR,ALL OTHER LOANS,DEFERRED COSTS,35097,35097,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,0000,1623456,6783,EUR,ALL OTHER LOANS,DEFERRED COSTS,23594,23594,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,0000,1623456,6783,EUR,ALL OTHER LOANS,DEFERRED COSTS,25147,35108,-9961,break,Yes,Huge spike in outstanding balances
+2023-09-30,0000,1634789,5402,USD,ALL OTHER LOANS,DEFERRED COSTS,12024,12024,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,0000,1634789,5402,USD,ALL OTHER LOANS,DEFERRED COSTS,46468,46468,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,0000,1634789,5402,USD,ALL OTHER LOANS,DEFERRED COSTS,48338,48338,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,0000,1634789,5402,USD,ALL OTHER LOANS,DEFERRED COSTS,42774,42774,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,0000,1634789,5402,USD,ALL OTHER LOANS,DEFERRED COSTS,33444,33444,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,0000,1634789,5402,USD,ALL OTHER LOANS,DEFERRED COSTS,49847,55778,-5931,break,Yes,Huge spike in outstanding balances
+2023-09-30,2222,1634789,6783,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,33490,33490,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,2222,1634789,6783,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,25203,25203,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,2222,1634789,6783,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,16720,16720,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,2222,1634789,6783,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,42386,42386,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,2222,1634789,6783,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,29973,29973,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,2222,1634789,6783,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,13487,21858,-8371,break,Yes,Huge spike in outstanding balances
+2023-09-30,0000,1634789,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,43224,43224,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,0000,1634789,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,13819,13819,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,0000,1634789,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,16777,16777,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,0000,1634789,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,38285,38285,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,0000,1634789,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,29614,29614,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,0000,1634789,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,11494,11494,0,match,No,Outstanding balances are in line with previous months
+2023-09-30,1111,1634789,6783,USD,ALL OTHER LOANS,DEFERRED COSTS,16227,16227,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,1111,1634789,6783,USD,ALL OTHER LOANS,DEFERRED COSTS,39638,39638,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,1111,1634789,6783,USD,ALL OTHER LOANS,DEFERRED COSTS,43263,43263,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,1111,1634789,6783,USD,ALL OTHER LOANS,DEFERRED COSTS,20990,20990,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,1111,1634789,6783,USD,ALL OTHER LOANS,DEFERRED COSTS,27217,27217,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,1111,1634789,6783,USD,ALL OTHER LOANS,DEFERRED COSTS,41111,41111,0,match,No,Outstanding balances are in line with previous months
+2023-09-30,2222,1619205,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,47933,47933,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,2222,1619205,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,22381,22381,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,2222,1619205,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,47241,47241,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,2222,1619205,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,46138,46138,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,2222,1619205,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,37264,37264,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,2222,1619205,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,25258,17548,7710,break,Yes,Sudden drop in IHub balance
+2023-09-30,0000,1623456,4398,USD,ALL OTHER LOANS,PRINCIPAL,25679,25679,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,0000,1623456,4398,USD,ALL OTHER LOANS,PRINCIPAL,21137,21137,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,0000,1623456,4398,USD,ALL OTHER LOANS,PRINCIPAL,40912,40912,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,0000,1623456,4398,USD,ALL OTHER LOANS,PRINCIPAL,30713,30713,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,0000,1623456,4398,USD,ALL OTHER LOANS,PRINCIPAL,33650,33650,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,0000,1623456,4398,USD,ALL OTHER LOANS,PRINCIPAL,30347,17025,13322,break,Yes,Sudden drop in IHub balance
+2023-09-30,2222,1623456,5402,USD,ALL OTHER LOANS,DEFERRED COSTS,34849,34849,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,2222,1623456,5402,USD,ALL OTHER LOANS,DEFERRED COSTS,18720,18720,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,2222,1623456,5402,USD,ALL OTHER LOANS,DEFERRED COSTS,14140,14140,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,2222,1623456,5402,USD,ALL OTHER LOANS,DEFERRED COSTS,42748,42748,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,2222,1623456,5402,USD,ALL OTHER LOANS,DEFERRED COSTS,46140,46140,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,2222,1623456,5402,USD,ALL OTHER LOANS,DEFERRED COSTS,43238,43238,0,match,No,Outstanding balances are in line with previous months
+2023-09-30,1111,1634789,5402,USD,ALL OTHER LOANS,PRINCIPAL,42895,42895,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,1111,1634789,5402,USD,ALL OTHER LOANS,PRINCIPAL,21379,21379,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,1111,1634789,5402,USD,ALL OTHER LOANS,PRINCIPAL,32217,32217,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,1111,1634789,5402,USD,ALL OTHER LOANS,PRINCIPAL,19132,19132,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,1111,1634789,5402,USD,ALL OTHER LOANS,PRINCIPAL,26125,26125,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,1111,1634789,5402,USD,ALL OTHER LOANS,PRINCIPAL,14538,20265,-5727,break,Yes,Huge spike in outstanding balances
+2023-09-30,0000,1619205,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,30879,30879,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,0000,1619205,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,31020,31020,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,0000,1619205,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,36683,36683,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,0000,1619205,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,35543,35543,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,0000,1619205,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,34669,34669,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,0000,1619205,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,24126,17206,6920,break,Yes,Sudden drop in IHub balance
+2023-09-30,2222,1623456,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,40575,40575,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,2222,1623456,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,38088,38088,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,2222,1623456,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,48823,48823,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,2222,1623456,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,36733,36733,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,2222,1623456,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,35985,35985,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,2222,1623456,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,29900,42598,-12698,break,Yes,Huge spike in outstanding balances
+2023-09-30,2222,1634789,5402,EUR,ALL OTHER LOANS,DEFERRED COSTS,49380,49380,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,2222,1634789,5402,EUR,ALL OTHER LOANS,DEFERRED COSTS,28196,28196,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,2222,1634789,5402,EUR,ALL OTHER LOANS,DEFERRED COSTS,20816,20816,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,2222,1634789,5402,EUR,ALL OTHER LOANS,DEFERRED COSTS,48869,48869,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,2222,1634789,5402,EUR,ALL OTHER LOANS,DEFERRED COSTS,11289,11289,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,2222,1634789,5402,EUR,ALL OTHER LOANS,DEFERRED COSTS,46212,37621,8591,break,Yes,Sudden drop in IHub balance
+2023-09-30,2222,1634789,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,49063,49063,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,2222,1634789,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,16858,16858,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,2222,1634789,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,49343,49343,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,2222,1634789,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,15910,15910,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,2222,1634789,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,29173,29173,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,2222,1634789,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,27679,27679,0,match,No,Outstanding balances are in line with previous months
+2023-09-30,2222,1634789,6783,EUR,ALL OTHER LOANS,PRINCIPAL,43610,43610,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,2222,1634789,6783,EUR,ALL OTHER LOANS,PRINCIPAL,35687,35687,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,2222,1634789,6783,EUR,ALL OTHER LOANS,PRINCIPAL,23695,23695,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,2222,1634789,6783,EUR,ALL OTHER LOANS,PRINCIPAL,12511,12511,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,2222,1634789,6783,EUR,ALL OTHER LOANS,PRINCIPAL,30515,30515,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,2222,1634789,6783,EUR,ALL OTHER LOANS,PRINCIPAL,14100,14100,0,match,No,Outstanding balances are in line with previous months
+2023-09-30,2222,1634789,5402,USD,ALL OTHER LOANS,PRINCIPAL,29040,29040,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,2222,1634789,5402,USD,ALL OTHER LOANS,PRINCIPAL,13419,13419,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,2222,1634789,5402,USD,ALL OTHER LOANS,PRINCIPAL,12427,12427,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,2222,1634789,5402,USD,ALL OTHER LOANS,PRINCIPAL,28657,28657,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,2222,1634789,5402,USD,ALL OTHER LOANS,PRINCIPAL,34440,34440,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,2222,1634789,5402,USD,ALL OTHER LOANS,PRINCIPAL,37880,37880,0,match,No,Outstanding balances are in line with previous months
+2023-09-30,1111,1619205,5402,EUR,ALL OTHER LOANS,PRINCIPAL,27863,27863,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,1111,1619205,5402,EUR,ALL OTHER LOANS,PRINCIPAL,32075,32075,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,1111,1619205,5402,EUR,ALL OTHER LOANS,PRINCIPAL,22258,22258,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,1111,1619205,5402,EUR,ALL OTHER LOANS,PRINCIPAL,47572,47572,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,1111,1619205,5402,EUR,ALL OTHER LOANS,PRINCIPAL,19389,19389,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,1111,1619205,5402,EUR,ALL OTHER LOANS,PRINCIPAL,24020,24020,0,match,No,Outstanding balances are in line with previous months
+2023-09-30,2222,1634789,6783,USD,ALL OTHER LOANS,PRINCIPAL,43219,42423,796,break,Yes,Inconsistent variations in outstanding balances
+2023-10-30,2222,1634789,6783,USD,ALL OTHER LOANS,PRINCIPAL,39638,39942,-304,break,Yes,Inconsistent variations in outstanding balances
+2023-11-29,2222,1634789,6783,USD,ALL OTHER LOANS,PRINCIPAL,10467,10031,436,break,Yes,Inconsistent variations in outstanding balances
+2023-12-29,2222,1634789,6783,USD,ALL OTHER LOANS,PRINCIPAL,49136,49402,-266,break,Yes,Inconsistent variations in outstanding balances
+2024-01-28,2222,1634789,6783,USD,ALL OTHER LOANS,PRINCIPAL,28646,29086,-440,break,Yes,Inconsistent variations in outstanding balances
+2024-02-27,2222,1634789,6783,USD,ALL OTHER LOANS,PRINCIPAL,42484,42519,-35,break,Yes,Inconsistent variations in outstanding balances
+2023-09-30,2222,1623456,6783,USD,ALL OTHER LOANS,PRINCIPAL,34488,34283,205,break,Yes,Inconsistent variations in outstanding balances
+2023-10-30,2222,1623456,6783,USD,ALL OTHER LOANS,PRINCIPAL,18072,18010,62,break,Yes,Inconsistent variations in outstanding balances
+2023-11-29,2222,1623456,6783,USD,ALL OTHER LOANS,PRINCIPAL,24179,23975,204,break,Yes,Inconsistent variations in outstanding balances
+2023-12-29,2222,1623456,6783,USD,ALL OTHER LOANS,PRINCIPAL,34090,34510,-420,break,Yes,Inconsistent variations in outstanding balances
+2024-01-28,2222,1623456,6783,USD,ALL OTHER LOANS,PRINCIPAL,27005,26905,100,break,Yes,Inconsistent variations in outstanding balances
+2024-02-27,2222,1623456,6783,USD,ALL OTHER LOANS,PRINCIPAL,20444,21054,-610,break,Yes,Inconsistent variations in outstanding balances
+2023-09-30,1111,1619205,6783,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,15690,15690,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,1111,1619205,6783,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,49862,49862,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,1111,1619205,6783,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,21912,21912,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,1111,1619205,6783,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,14360,14360,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,1111,1619205,6783,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,13469,13469,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,1111,1619205,6783,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,34688,48813,-14125,break,Yes,Huge spike in outstanding balances
+2023-09-30,2222,1619205,6783,USD,ALL OTHER LOANS,PRINCIPAL,29167,29167,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,2222,1619205,6783,USD,ALL OTHER LOANS,PRINCIPAL,10447,10447,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,2222,1619205,6783,USD,ALL OTHER LOANS,PRINCIPAL,35984,35984,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,2222,1619205,6783,USD,ALL OTHER LOANS,PRINCIPAL,17008,17008,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,2222,1619205,6783,USD,ALL OTHER LOANS,PRINCIPAL,41307,41307,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,2222,1619205,6783,USD,ALL OTHER LOANS,PRINCIPAL,48475,48475,0,match,No,Outstanding balances are in line with previous months
+2023-09-30,0000,1619205,4398,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,45039,45039,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,0000,1619205,4398,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,27809,27809,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,0000,1619205,4398,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,42532,42532,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,0000,1619205,4398,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,13067,13067,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,0000,1619205,4398,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,40512,40512,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,0000,1619205,4398,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,18397,11147,7250,break,Yes,Sudden drop in IHub balance
+2023-09-30,2222,1623456,6783,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,41310,41310,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,2222,1623456,6783,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,35948,35948,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,2222,1623456,6783,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,16983,16983,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,2222,1623456,6783,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,48299,48299,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,2222,1623456,6783,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,32845,32845,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,2222,1623456,6783,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,34107,34107,0,match,No,Outstanding balances are in line with previous months
+2023-09-30,1111,1623456,6783,EUR,ALL OTHER LOANS,PRINCIPAL,15339,15339,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,1111,1623456,6783,EUR,ALL OTHER LOANS,PRINCIPAL,12297,12297,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,1111,1623456,6783,EUR,ALL OTHER LOANS,PRINCIPAL,34768,34768,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,1111,1623456,6783,EUR,ALL OTHER LOANS,PRINCIPAL,49583,49583,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,1111,1623456,6783,EUR,ALL OTHER LOANS,PRINCIPAL,44444,44444,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,1111,1623456,6783,EUR,ALL OTHER LOANS,PRINCIPAL,32456,46406,-13950,break,Yes,Huge spike in outstanding balances
+2023-09-30,1111,1634789,4398,USD,ALL OTHER LOANS,PRINCIPAL,13542,13542,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,1111,1634789,4398,USD,ALL OTHER LOANS,PRINCIPAL,16233,16233,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,1111,1634789,4398,USD,ALL OTHER LOANS,PRINCIPAL,24476,24476,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,1111,1634789,4398,USD,ALL OTHER LOANS,PRINCIPAL,19120,19120,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,1111,1634789,4398,USD,ALL OTHER LOANS,PRINCIPAL,49460,49460,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,1111,1634789,4398,USD,ALL OTHER LOANS,PRINCIPAL,48354,48354,0,match,No,Outstanding balances are in line with previous months
+2023-09-30,1111,1623456,6783,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,28456,28456,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,1111,1623456,6783,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,17346,17346,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,1111,1623456,6783,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,25137,25137,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,1111,1623456,6783,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,36073,36073,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,1111,1623456,6783,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,13181,13181,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,1111,1623456,6783,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,31529,25684,5845,break,Yes,Sudden drop in IHub balance
+2023-09-30,2222,1623456,5402,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,25001,25001,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,2222,1623456,5402,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,16890,16890,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,2222,1623456,5402,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,23000,23000,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,2222,1623456,5402,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,17595,17595,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,2222,1623456,5402,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,41791,41791,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,2222,1623456,5402,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,34971,34971,0,match,No,Outstanding balances are in line with previous months
+2023-09-30,2222,1623456,6783,EUR,ALL OTHER LOANS,DEFERRED COSTS,41209,41209,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,2222,1623456,6783,EUR,ALL OTHER LOANS,DEFERRED COSTS,44654,44654,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,2222,1623456,6783,EUR,ALL OTHER LOANS,DEFERRED COSTS,19948,19948,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,2222,1623456,6783,EUR,ALL OTHER LOANS,DEFERRED COSTS,24250,24250,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,2222,1623456,6783,EUR,ALL OTHER LOANS,DEFERRED COSTS,15366,15366,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,2222,1623456,6783,EUR,ALL OTHER LOANS,DEFERRED COSTS,14229,14229,0,match,No,Outstanding balances are in line with previous months
+2023-09-30,0000,1634789,5402,USD,ALL OTHER LOANS,DEFERRED COSTS,34225,34225,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,0000,1634789,5402,USD,ALL OTHER LOANS,DEFERRED COSTS,24730,24730,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,0000,1634789,5402,USD,ALL OTHER LOANS,DEFERRED COSTS,34996,34996,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,0000,1634789,5402,USD,ALL OTHER LOANS,DEFERRED COSTS,27129,27129,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,0000,1634789,5402,USD,ALL OTHER LOANS,DEFERRED COSTS,19316,19316,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,0000,1634789,5402,USD,ALL OTHER LOANS,DEFERRED COSTS,34105,34105,0,match,No,Outstanding balances are in line with previous months
+2023-09-30,1111,1623456,6783,USD,ALL OTHER LOANS,PRINCIPAL,28006,28006,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,1111,1623456,6783,USD,ALL OTHER LOANS,PRINCIPAL,13624,13624,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,1111,1623456,6783,USD,ALL OTHER LOANS,PRINCIPAL,49416,49416,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,1111,1623456,6783,USD,ALL OTHER LOANS,PRINCIPAL,19081,19081,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,1111,1623456,6783,USD,ALL OTHER LOANS,PRINCIPAL,23552,23552,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,1111,1623456,6783,USD,ALL OTHER LOANS,PRINCIPAL,47795,61318,-13523,break,Yes,Huge spike in outstanding balances
+2023-09-30,0000,1623456,6783,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,16988,16988,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,0000,1623456,6783,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,36105,36105,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,0000,1623456,6783,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,20695,20695,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,0000,1623456,6783,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,48731,48731,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,0000,1623456,6783,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,47059,47059,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,0000,1623456,6783,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,10171,10171,0,match,No,Outstanding balances are in line with previous months
+2023-09-30,2222,1623456,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,45950,45609,341,break,Yes,Inconsistent variations in outstanding balances
+2023-10-30,2222,1623456,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,10646,9892,754,break,Yes,Inconsistent variations in outstanding balances
+2023-11-29,2222,1623456,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,29236,28710,526,break,Yes,Inconsistent variations in outstanding balances
+2023-12-29,2222,1623456,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,34629,34914,-285,break,Yes,Inconsistent variations in outstanding balances
+2024-01-28,2222,1623456,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,41936,41399,537,break,Yes,Inconsistent variations in outstanding balances
+2024-02-27,2222,1623456,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,27874,27841,33,break,Yes,Inconsistent variations in outstanding balances
+2023-09-30,0000,1619205,5402,EUR,ALL OTHER LOANS,DEFERRED COSTS,34432,34432,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,0000,1619205,5402,EUR,ALL OTHER LOANS,DEFERRED COSTS,26331,26331,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,0000,1619205,5402,EUR,ALL OTHER LOANS,DEFERRED COSTS,21076,21076,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,0000,1619205,5402,EUR,ALL OTHER LOANS,DEFERRED COSTS,28574,28574,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,0000,1619205,5402,EUR,ALL OTHER LOANS,DEFERRED COSTS,18423,18423,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,0000,1619205,5402,EUR,ALL OTHER LOANS,DEFERRED COSTS,21903,21903,0,match,No,Outstanding balances are in line with previous months
+2023-09-30,0000,1619205,4398,USD,ALL OTHER LOANS,PRINCIPAL,28041,28041,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,0000,1619205,4398,USD,ALL OTHER LOANS,PRINCIPAL,34673,34673,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,0000,1619205,4398,USD,ALL OTHER LOANS,PRINCIPAL,36427,36427,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,0000,1619205,4398,USD,ALL OTHER LOANS,PRINCIPAL,36896,36896,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,0000,1619205,4398,USD,ALL OTHER LOANS,PRINCIPAL,25586,25586,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,0000,1619205,4398,USD,ALL OTHER LOANS,PRINCIPAL,21595,21595,0,match,No,Outstanding balances are in line with previous months
+2023-09-30,1111,1634789,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,32111,32111,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,1111,1634789,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,35306,35306,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,1111,1634789,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,26920,26920,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,1111,1634789,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,34784,34784,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,1111,1634789,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,44420,44420,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,1111,1634789,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,38368,51618,-13250,break,Yes,Huge spike in outstanding balances
+2023-09-30,2222,1623456,4398,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,17533,17533,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,2222,1623456,4398,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,20229,20229,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,2222,1623456,4398,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,21673,21673,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,2222,1623456,4398,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,35572,35572,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,2222,1623456,4398,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,12907,12907,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,2222,1623456,4398,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,27046,37591,-10545,break,Yes,Huge spike in outstanding balances
+2023-09-30,0000,1619205,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,10842,10760,82,break,Yes,Inconsistent variations in outstanding balances
+2023-10-30,0000,1619205,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,48341,49336,-995,break,Yes,Inconsistent variations in outstanding balances
+2023-11-29,0000,1619205,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,13200,13050,150,break,Yes,Inconsistent variations in outstanding balances
+2023-12-29,0000,1619205,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,46992,46833,159,break,Yes,Inconsistent variations in outstanding balances
+2024-01-28,0000,1619205,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,41037,41196,-159,break,Yes,Inconsistent variations in outstanding balances
+2024-02-27,0000,1619205,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,41192,41451,-259,break,Yes,Inconsistent variations in outstanding balances
+2023-09-30,0000,1623456,4398,USD,ALL OTHER LOANS,PRINCIPAL,21569,21569,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,0000,1623456,4398,USD,ALL OTHER LOANS,PRINCIPAL,12145,12145,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,0000,1623456,4398,USD,ALL OTHER LOANS,PRINCIPAL,22973,22973,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,0000,1623456,4398,USD,ALL OTHER LOANS,PRINCIPAL,25993,25993,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,0000,1623456,4398,USD,ALL OTHER LOANS,PRINCIPAL,25072,25072,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,0000,1623456,4398,USD,ALL OTHER LOANS,PRINCIPAL,49714,49714,0,match,No,Outstanding balances are in line with previous months
+2023-09-30,0000,1634789,5402,USD,ALL OTHER LOANS,PRINCIPAL,41980,41980,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,0000,1634789,5402,USD,ALL OTHER LOANS,PRINCIPAL,23912,23912,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,0000,1634789,5402,USD,ALL OTHER LOANS,PRINCIPAL,28933,28933,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,0000,1634789,5402,USD,ALL OTHER LOANS,PRINCIPAL,18949,18949,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,0000,1634789,5402,USD,ALL OTHER LOANS,PRINCIPAL,48479,48479,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,0000,1634789,5402,USD,ALL OTHER LOANS,PRINCIPAL,36055,36055,0,match,No,Outstanding balances are in line with previous months
+2023-09-30,1111,1634789,6783,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,23919,23919,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,1111,1634789,6783,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,31208,31208,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,1111,1634789,6783,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,25791,25791,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,1111,1634789,6783,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,15766,15766,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,1111,1634789,6783,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,27545,27545,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,1111,1634789,6783,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,15536,22500,-6964,break,Yes,Huge spike in outstanding balances
+2023-09-30,2222,1634789,6783,EUR,ALL OTHER LOANS,DEFERRED COSTS,21097,20536,561,break,Yes,Inconsistent variations in outstanding balances
+2023-10-30,2222,1634789,6783,EUR,ALL OTHER LOANS,DEFERRED COSTS,36510,36657,-147,break,Yes,Inconsistent variations in outstanding balances
+2023-11-29,2222,1634789,6783,EUR,ALL OTHER LOANS,DEFERRED COSTS,28026,27574,452,break,Yes,Inconsistent variations in outstanding balances
+2023-12-29,2222,1634789,6783,EUR,ALL OTHER LOANS,DEFERRED COSTS,40079,40079,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,2222,1634789,6783,EUR,ALL OTHER LOANS,DEFERRED COSTS,24474,25068,-594,break,Yes,Inconsistent variations in outstanding balances
+2024-02-27,2222,1634789,6783,EUR,ALL OTHER LOANS,DEFERRED COSTS,21033,20888,145,break,Yes,Inconsistent variations in outstanding balances
+2023-09-30,0000,1619205,4398,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,45064,45064,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,0000,1619205,4398,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,15758,15758,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,0000,1619205,4398,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,48673,48673,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,0000,1619205,4398,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,37124,37124,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,0000,1619205,4398,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,38027,38027,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,0000,1619205,4398,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,35425,35425,0,match,No,Outstanding balances are in line with previous months
+2023-09-30,1111,1623456,5402,EUR,ALL OTHER LOANS,PRINCIPAL,10442,10442,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,1111,1623456,5402,EUR,ALL OTHER LOANS,PRINCIPAL,25651,25651,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,1111,1623456,5402,EUR,ALL OTHER LOANS,PRINCIPAL,17932,17932,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,1111,1623456,5402,EUR,ALL OTHER LOANS,PRINCIPAL,18013,18013,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,1111,1623456,5402,EUR,ALL OTHER LOANS,PRINCIPAL,40430,40430,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,1111,1623456,5402,EUR,ALL OTHER LOANS,PRINCIPAL,34597,34597,0,match,No,Outstanding balances are in line with previous months
+2023-09-30,2222,1623456,5402,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,15086,15086,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,2222,1623456,5402,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,11205,11205,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,2222,1623456,5402,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,30979,30979,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,2222,1623456,5402,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,33738,33738,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,2222,1623456,5402,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,22435,22435,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,2222,1623456,5402,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,33604,33604,0,match,No,Outstanding balances are in line with previous months
+2023-09-30,2222,1634789,5402,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,32663,32663,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,2222,1634789,5402,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,46599,46599,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,2222,1634789,5402,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,48899,48899,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,2222,1634789,5402,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,18640,18640,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,2222,1634789,5402,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,17457,17457,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,2222,1634789,5402,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,11827,11827,0,match,No,Outstanding balances are in line with previous months
+2023-09-30,1111,1634789,5402,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,39939,39770,169,break,Yes,Inconsistent variations in outstanding balances
+2023-10-30,1111,1634789,5402,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,12526,11909,617,break,Yes,Inconsistent variations in outstanding balances
+2023-11-29,1111,1634789,5402,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,39691,40411,-720,break,Yes,Inconsistent variations in outstanding balances
+2023-12-29,1111,1634789,5402,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,15851,15696,155,break,Yes,Inconsistent variations in outstanding balances
+2024-01-28,1111,1634789,5402,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,31606,31925,-319,break,Yes,Inconsistent variations in outstanding balances
+2024-02-27,1111,1634789,5402,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,44181,44794,-613,break,Yes,Inconsistent variations in outstanding balances
+2023-09-30,1111,1619205,6783,USD,ALL OTHER LOANS,PRINCIPAL,47533,47726,-193,break,Yes,Inconsistent variations in outstanding balances
+2023-10-30,1111,1619205,6783,USD,ALL OTHER LOANS,PRINCIPAL,44128,43556,572,break,Yes,Inconsistent variations in outstanding balances
+2023-11-29,1111,1619205,6783,USD,ALL OTHER LOANS,PRINCIPAL,13573,13362,211,break,Yes,Inconsistent variations in outstanding balances
+2023-12-29,1111,1619205,6783,USD,ALL OTHER LOANS,PRINCIPAL,25583,24798,785,break,Yes,Inconsistent variations in outstanding balances
+2024-01-28,1111,1619205,6783,USD,ALL OTHER LOANS,PRINCIPAL,22112,22772,-660,break,Yes,Inconsistent variations in outstanding balances
+2024-02-27,1111,1619205,6783,USD,ALL OTHER LOANS,PRINCIPAL,40588,41243,-655,break,Yes,Inconsistent variations in outstanding balances
+2023-09-30,0000,1634789,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,25751,25751,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,0000,1634789,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,34362,34362,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,0000,1634789,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,31524,31524,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,0000,1634789,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,16384,16384,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,0000,1634789,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,38040,38040,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,0000,1634789,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,42678,42678,0,match,No,Outstanding balances are in line with previous months
+2023-09-30,2222,1634789,6783,EUR,ALL OTHER LOANS,DEFERRED COSTS,13402,13402,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,2222,1634789,6783,EUR,ALL OTHER LOANS,DEFERRED COSTS,15379,15379,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,2222,1634789,6783,EUR,ALL OTHER LOANS,DEFERRED COSTS,21989,21989,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,2222,1634789,6783,EUR,ALL OTHER LOANS,DEFERRED COSTS,40855,40855,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,2222,1634789,6783,EUR,ALL OTHER LOANS,DEFERRED COSTS,23447,23447,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,2222,1634789,6783,EUR,ALL OTHER LOANS,DEFERRED COSTS,22959,22959,0,match,No,Outstanding balances are in line with previous months
+2023-09-30,1111,1619205,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,28376,28988,-612,break,Yes,Inconsistent variations in outstanding balances
+2023-10-30,1111,1619205,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,26827,26495,332,break,Yes,Inconsistent variations in outstanding balances
+2023-11-29,1111,1619205,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,38595,37706,889,break,Yes,Inconsistent variations in outstanding balances
+2023-12-29,1111,1619205,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,40090,40847,-757,break,Yes,Inconsistent variations in outstanding balances
+2024-01-28,1111,1619205,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,35174,34626,548,break,Yes,Inconsistent variations in outstanding balances
+2024-02-27,1111,1619205,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,46170,45543,627,break,Yes,Inconsistent variations in outstanding balances
+2023-09-30,1111,1623456,5402,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,28718,27800,918,break,Yes,Inconsistent variations in outstanding balances
+2023-10-30,1111,1623456,5402,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,12150,12920,-770,break,Yes,Inconsistent variations in outstanding balances
+2023-11-29,1111,1623456,5402,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,14712,13869,843,break,Yes,Inconsistent variations in outstanding balances
+2023-12-29,1111,1623456,5402,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,44263,45256,-993,break,Yes,Inconsistent variations in outstanding balances
+2024-01-28,1111,1623456,5402,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,43536,44220,-684,break,Yes,Inconsistent variations in outstanding balances
+2024-02-27,1111,1623456,5402,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,17547,18472,-925,break,Yes,Inconsistent variations in outstanding balances
+2023-09-30,2222,1619205,6783,USD,ALL OTHER LOANS,PRINCIPAL,43145,43145,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,2222,1619205,6783,USD,ALL OTHER LOANS,PRINCIPAL,10119,10119,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,2222,1619205,6783,USD,ALL OTHER LOANS,PRINCIPAL,49204,49204,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,2222,1619205,6783,USD,ALL OTHER LOANS,PRINCIPAL,37495,37495,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,2222,1619205,6783,USD,ALL OTHER LOANS,PRINCIPAL,31170,31170,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,2222,1619205,6783,USD,ALL OTHER LOANS,PRINCIPAL,12851,22389,-9538,break,Yes,Huge spike in outstanding balances
+2023-09-30,2222,1619205,5402,EUR,ALL OTHER LOANS,PRINCIPAL,28643,28643,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,2222,1619205,5402,EUR,ALL OTHER LOANS,PRINCIPAL,43345,43345,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,2222,1619205,5402,EUR,ALL OTHER LOANS,PRINCIPAL,46079,46079,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,2222,1619205,5402,EUR,ALL OTHER LOANS,PRINCIPAL,46675,46675,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,2222,1619205,5402,EUR,ALL OTHER LOANS,PRINCIPAL,46613,46613,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,2222,1619205,5402,EUR,ALL OTHER LOANS,PRINCIPAL,45947,45947,0,match,No,Outstanding balances are in line with previous months
+2023-09-30,0000,1634789,5402,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,28912,28912,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,0000,1634789,5402,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,10765,10765,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,0000,1634789,5402,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,30415,30415,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,0000,1634789,5402,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,14329,14329,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,0000,1634789,5402,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,37900,37900,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,0000,1634789,5402,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,49856,44387,5469,break,Yes,Sudden drop in IHub balance
+2023-09-30,2222,1619205,5402,USD,ALL OTHER LOANS,DEFERRED COSTS,48539,48539,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,2222,1619205,5402,USD,ALL OTHER LOANS,DEFERRED COSTS,48770,48770,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,2222,1619205,5402,USD,ALL OTHER LOANS,DEFERRED COSTS,46825,46825,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,2222,1619205,5402,USD,ALL OTHER LOANS,DEFERRED COSTS,12321,12321,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,2222,1619205,5402,USD,ALL OTHER LOANS,DEFERRED COSTS,31713,31713,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,2222,1619205,5402,USD,ALL OTHER LOANS,DEFERRED COSTS,33151,24636,8515,break,Yes,Sudden drop in IHub balance
+2023-09-30,0000,1619205,5402,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,34223,33488,735,break,Yes,Inconsistent variations in outstanding balances
+2023-10-30,0000,1619205,5402,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,48074,48752,-678,break,Yes,Inconsistent variations in outstanding balances
+2023-11-29,0000,1619205,5402,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,47071,47190,-119,break,Yes,Inconsistent variations in outstanding balances
+2023-12-29,0000,1619205,5402,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,28608,28497,111,break,Yes,Inconsistent variations in outstanding balances
+2024-01-28,0000,1619205,5402,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,15622,15929,-307,break,Yes,Inconsistent variations in outstanding balances
+2024-02-27,0000,1619205,5402,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,34886,34085,801,break,Yes,Inconsistent variations in outstanding balances
+2023-09-30,0000,1634789,5402,USD,ALL OTHER LOANS,DEFERRED COSTS,19519,19519,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,0000,1634789,5402,USD,ALL OTHER LOANS,DEFERRED COSTS,42782,42782,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,0000,1634789,5402,USD,ALL OTHER LOANS,DEFERRED COSTS,31133,31133,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,0000,1634789,5402,USD,ALL OTHER LOANS,DEFERRED COSTS,43419,43419,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,0000,1634789,5402,USD,ALL OTHER LOANS,DEFERRED COSTS,15526,15526,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,0000,1634789,5402,USD,ALL OTHER LOANS,DEFERRED COSTS,30388,44634,-14246,break,Yes,Huge spike in outstanding balances
+2023-09-30,1111,1623456,6783,USD,ALL OTHER LOANS,PRINCIPAL,43783,43783,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,1111,1623456,6783,USD,ALL OTHER LOANS,PRINCIPAL,10787,10787,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,1111,1623456,6783,USD,ALL OTHER LOANS,PRINCIPAL,23464,23464,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,1111,1623456,6783,USD,ALL OTHER LOANS,PRINCIPAL,44068,44068,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,1111,1623456,6783,USD,ALL OTHER LOANS,PRINCIPAL,34408,34408,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,1111,1623456,6783,USD,ALL OTHER LOANS,PRINCIPAL,13368,13368,0,match,No,Outstanding balances are in line with previous months
+2023-09-30,2222,1634789,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,21449,21449,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,2222,1634789,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,29363,29363,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,2222,1634789,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,36143,36143,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,2222,1634789,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,30949,30949,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,2222,1634789,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,39073,39073,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,2222,1634789,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,24466,24466,0,match,No,Outstanding balances are in line with previous months
+2023-09-30,1111,1623456,4398,EUR,ALL OTHER LOANS,PRINCIPAL,15177,15021,156,break,Yes,Inconsistent variations in outstanding balances
+2023-10-30,1111,1623456,4398,EUR,ALL OTHER LOANS,PRINCIPAL,47488,47540,-52,break,Yes,Inconsistent variations in outstanding balances
+2023-11-29,1111,1623456,4398,EUR,ALL OTHER LOANS,PRINCIPAL,31294,31007,287,break,Yes,Inconsistent variations in outstanding balances
+2023-12-29,1111,1623456,4398,EUR,ALL OTHER LOANS,PRINCIPAL,30914,31697,-783,break,Yes,Inconsistent variations in outstanding balances
+2024-01-28,1111,1623456,4398,EUR,ALL OTHER LOANS,PRINCIPAL,44155,44578,-423,break,Yes,Inconsistent variations in outstanding balances
+2024-02-27,1111,1623456,4398,EUR,ALL OTHER LOANS,PRINCIPAL,34480,34416,64,break,Yes,Inconsistent variations in outstanding balances
+2023-09-30,2222,1634789,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,39712,39712,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,2222,1634789,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,25122,25122,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,2222,1634789,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,32511,32511,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,2222,1634789,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,26900,26900,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,2222,1634789,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,28721,28721,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,2222,1634789,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,22161,22161,0,match,No,Outstanding balances are in line with previous months
+2023-09-30,2222,1634789,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,11425,11425,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,2222,1634789,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,14762,14762,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,2222,1634789,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,19500,19500,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,2222,1634789,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,12083,12083,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,2222,1634789,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,26338,26338,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,2222,1634789,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,35556,35556,0,match,No,Outstanding balances are in line with previous months
+2023-09-30,0000,1634789,6783,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,44498,44498,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,0000,1634789,6783,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,29897,29897,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,0000,1634789,6783,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,11762,11762,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,0000,1634789,6783,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,47759,47759,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,0000,1634789,6783,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,34367,34367,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,0000,1634789,6783,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,34882,34882,0,match,No,Outstanding balances are in line with previous months
+2023-09-30,1111,1634789,4398,EUR,ALL OTHER LOANS,PRINCIPAL,19296,19296,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,1111,1634789,4398,EUR,ALL OTHER LOANS,PRINCIPAL,10795,10795,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,1111,1634789,4398,EUR,ALL OTHER LOANS,PRINCIPAL,18781,18781,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,1111,1634789,4398,EUR,ALL OTHER LOANS,PRINCIPAL,24638,24638,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,1111,1634789,4398,EUR,ALL OTHER LOANS,PRINCIPAL,13360,13360,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,1111,1634789,4398,EUR,ALL OTHER LOANS,PRINCIPAL,26449,26449,0,match,No,Outstanding balances are in line with previous months
+2023-09-30,1111,1634789,6783,EUR,ALL OTHER LOANS,DEFERRED COSTS,44681,44681,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,1111,1634789,6783,EUR,ALL OTHER LOANS,DEFERRED COSTS,22112,22112,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,1111,1634789,6783,EUR,ALL OTHER LOANS,DEFERRED COSTS,20751,20751,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,1111,1634789,6783,EUR,ALL OTHER LOANS,DEFERRED COSTS,39982,39982,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,1111,1634789,6783,EUR,ALL OTHER LOANS,DEFERRED COSTS,10232,10232,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,1111,1634789,6783,EUR,ALL OTHER LOANS,DEFERRED COSTS,17325,17325,0,match,No,Outstanding balances are in line with previous months
+2023-09-30,0000,1623456,6783,EUR,ALL OTHER LOANS,PRINCIPAL,44627,44627,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,0000,1623456,6783,EUR,ALL OTHER LOANS,PRINCIPAL,28544,28544,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,0000,1623456,6783,EUR,ALL OTHER LOANS,PRINCIPAL,17425,17425,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,0000,1623456,6783,EUR,ALL OTHER LOANS,PRINCIPAL,23141,23141,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,0000,1623456,6783,EUR,ALL OTHER LOANS,PRINCIPAL,18284,18284,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,0000,1623456,6783,EUR,ALL OTHER LOANS,PRINCIPAL,15332,24073,-8741,break,Yes,Huge spike in outstanding balances
+2023-09-30,0000,1634789,5402,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,36089,36089,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,0000,1634789,5402,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,20307,20307,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,0000,1634789,5402,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,25265,25265,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,0000,1634789,5402,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,45252,45252,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,0000,1634789,5402,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,35969,35969,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,0000,1634789,5402,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,17635,17635,0,match,No,Outstanding balances are in line with previous months
+2023-09-30,2222,1619205,5402,EUR,ALL OTHER LOANS,DEFERRED COSTS,16359,16359,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,2222,1619205,5402,EUR,ALL OTHER LOANS,DEFERRED COSTS,16552,16552,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,2222,1619205,5402,EUR,ALL OTHER LOANS,DEFERRED COSTS,27540,27540,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,2222,1619205,5402,EUR,ALL OTHER LOANS,DEFERRED COSTS,42874,42874,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,2222,1619205,5402,EUR,ALL OTHER LOANS,DEFERRED COSTS,39568,39568,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,2222,1619205,5402,EUR,ALL OTHER LOANS,DEFERRED COSTS,20851,26149,-5298,break,Yes,Huge spike in outstanding balances
+2023-09-30,1111,1623456,4398,EUR,ALL OTHER LOANS,DEFERRED COSTS,13828,13828,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,1111,1623456,4398,EUR,ALL OTHER LOANS,DEFERRED COSTS,16234,16234,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,1111,1623456,4398,EUR,ALL OTHER LOANS,DEFERRED COSTS,21300,21300,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,1111,1623456,4398,EUR,ALL OTHER LOANS,DEFERRED COSTS,12480,12480,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,1111,1623456,4398,EUR,ALL OTHER LOANS,DEFERRED COSTS,44608,44608,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,1111,1623456,4398,EUR,ALL OTHER LOANS,DEFERRED COSTS,41006,41006,0,match,No,Outstanding balances are in line with previous months
+2023-09-30,1111,1634789,4398,EUR,ALL OTHER LOANS,PRINCIPAL,25987,25987,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,1111,1634789,4398,EUR,ALL OTHER LOANS,PRINCIPAL,14274,14274,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,1111,1634789,4398,EUR,ALL OTHER LOANS,PRINCIPAL,31069,31069,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,1111,1634789,4398,EUR,ALL OTHER LOANS,PRINCIPAL,37100,37100,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,1111,1634789,4398,EUR,ALL OTHER LOANS,PRINCIPAL,16618,16618,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,1111,1634789,4398,EUR,ALL OTHER LOANS,PRINCIPAL,25236,25236,0,match,No,Outstanding balances are in line with previous months
+2023-09-30,1111,1619205,6783,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,35178,35178,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,1111,1619205,6783,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,15093,15093,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,1111,1619205,6783,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,17755,17755,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,1111,1619205,6783,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,29388,29388,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,1111,1619205,6783,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,45810,45810,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,1111,1619205,6783,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,39553,49239,-9686,break,Yes,Huge spike in outstanding balances
+2023-09-30,2222,1619205,4398,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,16096,16096,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,2222,1619205,4398,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,34907,34907,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,2222,1619205,4398,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,11039,11039,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,2222,1619205,4398,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,11951,11951,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,2222,1619205,4398,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,46056,46056,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,2222,1619205,4398,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,38425,38425,0,match,No,Outstanding balances are in line with previous months
+2023-09-30,2222,1619205,5402,EUR,ALL OTHER LOANS,PRINCIPAL,10314,10314,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,2222,1619205,5402,EUR,ALL OTHER LOANS,PRINCIPAL,48359,48359,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,2222,1619205,5402,EUR,ALL OTHER LOANS,PRINCIPAL,47744,47744,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,2222,1619205,5402,EUR,ALL OTHER LOANS,PRINCIPAL,30154,30154,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,2222,1619205,5402,EUR,ALL OTHER LOANS,PRINCIPAL,49128,49128,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,2222,1619205,5402,EUR,ALL OTHER LOANS,PRINCIPAL,36101,23830,12271,break,Yes,Sudden drop in IHub balance
+2023-09-30,0000,1634789,5402,USD,ALL OTHER LOANS,PRINCIPAL,29244,29244,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,0000,1634789,5402,USD,ALL OTHER LOANS,PRINCIPAL,10838,10838,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,0000,1634789,5402,USD,ALL OTHER LOANS,PRINCIPAL,49668,49668,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,0000,1634789,5402,USD,ALL OTHER LOANS,PRINCIPAL,40369,40369,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,0000,1634789,5402,USD,ALL OTHER LOANS,PRINCIPAL,45368,45368,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,0000,1634789,5402,USD,ALL OTHER LOANS,PRINCIPAL,13728,13728,0,match,No,Outstanding balances are in line with previous months
+2023-09-30,0000,1623456,6783,EUR,ALL OTHER LOANS,PRINCIPAL,20070,20070,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,0000,1623456,6783,EUR,ALL OTHER LOANS,PRINCIPAL,20750,20750,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,0000,1623456,6783,EUR,ALL OTHER LOANS,PRINCIPAL,16223,16223,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,0000,1623456,6783,EUR,ALL OTHER LOANS,PRINCIPAL,22396,22396,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,0000,1623456,6783,EUR,ALL OTHER LOANS,PRINCIPAL,39024,39024,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,0000,1623456,6783,EUR,ALL OTHER LOANS,PRINCIPAL,14041,3031,11010,break,Yes,Sudden drop in IHub balance
+2023-09-30,1111,1623456,4398,EUR,ALL OTHER LOANS,PRINCIPAL,11960,11960,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,1111,1623456,4398,EUR,ALL OTHER LOANS,PRINCIPAL,36804,36804,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,1111,1623456,4398,EUR,ALL OTHER LOANS,PRINCIPAL,32053,32053,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,1111,1623456,4398,EUR,ALL OTHER LOANS,PRINCIPAL,39137,39137,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,1111,1623456,4398,EUR,ALL OTHER LOANS,PRINCIPAL,25227,25227,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,1111,1623456,4398,EUR,ALL OTHER LOANS,PRINCIPAL,20782,20782,0,match,No,Outstanding balances are in line with previous months
+2023-09-30,1111,1634789,6783,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,21782,21782,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,1111,1634789,6783,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,33046,33046,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,1111,1634789,6783,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,26021,26021,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,1111,1634789,6783,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,12643,12643,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,1111,1634789,6783,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,39448,39448,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,1111,1634789,6783,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,24433,31925,-7492,break,Yes,Huge spike in outstanding balances
+2023-09-30,2222,1623456,5402,USD,ALL OTHER LOANS,PRINCIPAL,33945,33945,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,2222,1623456,5402,USD,ALL OTHER LOANS,PRINCIPAL,11825,11825,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,2222,1623456,5402,USD,ALL OTHER LOANS,PRINCIPAL,10898,10898,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,2222,1623456,5402,USD,ALL OTHER LOANS,PRINCIPAL,30718,30718,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,2222,1623456,5402,USD,ALL OTHER LOANS,PRINCIPAL,42489,42489,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,2222,1623456,5402,USD,ALL OTHER LOANS,PRINCIPAL,39517,39517,0,match,No,Outstanding balances are in line with previous months
+2023-09-30,0000,1634789,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,11835,11835,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,0000,1634789,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,16802,16802,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,0000,1634789,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,47324,47324,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,0000,1634789,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,12336,12336,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,0000,1634789,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,30758,30758,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,0000,1634789,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,10691,-3597,14288,break,Yes,Sudden drop in IHub balance
+2023-09-30,2222,1634789,6783,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,35057,34596,461,break,Yes,Inconsistent variations in outstanding balances
+2023-10-30,2222,1634789,6783,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,15253,15193,60,break,Yes,Inconsistent variations in outstanding balances
+2023-11-29,2222,1634789,6783,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,22801,23322,-521,break,Yes,Inconsistent variations in outstanding balances
+2023-12-29,2222,1634789,6783,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,16950,16072,878,break,Yes,Inconsistent variations in outstanding balances
+2024-01-28,2222,1634789,6783,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,15187,14631,556,break,Yes,Inconsistent variations in outstanding balances
+2024-02-27,2222,1634789,6783,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,34210,34005,205,break,Yes,Inconsistent variations in outstanding balances
+2023-09-30,1111,1634789,6783,EUR,ALL OTHER LOANS,PRINCIPAL,36505,37077,-572,break,Yes,Inconsistent variations in outstanding balances
+2023-10-30,1111,1634789,6783,EUR,ALL OTHER LOANS,PRINCIPAL,30329,31009,-680,break,Yes,Inconsistent variations in outstanding balances
+2023-11-29,1111,1634789,6783,EUR,ALL OTHER LOANS,PRINCIPAL,12054,12529,-475,break,Yes,Inconsistent variations in outstanding balances
+2023-12-29,1111,1634789,6783,EUR,ALL OTHER LOANS,PRINCIPAL,26839,26557,282,break,Yes,Inconsistent variations in outstanding balances
+2024-01-28,1111,1634789,6783,EUR,ALL OTHER LOANS,PRINCIPAL,13639,14443,-804,break,Yes,Inconsistent variations in outstanding balances
+2024-02-27,1111,1634789,6783,EUR,ALL OTHER LOANS,PRINCIPAL,36571,37463,-892,break,Yes,Inconsistent variations in outstanding balances
+2023-09-30,2222,1623456,5402,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,40240,40240,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,2222,1623456,5402,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,36291,36291,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,2222,1623456,5402,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,44569,44569,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,2222,1623456,5402,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,39018,39018,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,2222,1623456,5402,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,48293,48293,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,2222,1623456,5402,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,10447,-3383,13830,break,Yes,Sudden drop in IHub balance
+2023-09-30,1111,1623456,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,39322,39322,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,1111,1623456,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,16326,16326,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,1111,1623456,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,20859,20859,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,1111,1623456,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,47118,47118,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,1111,1623456,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,28459,28459,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,1111,1623456,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,22294,32126,-9832,break,Yes,Huge spike in outstanding balances
+2023-09-30,1111,1634789,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,31957,31957,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,1111,1634789,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,30883,30883,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,1111,1634789,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,38797,38797,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,1111,1634789,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,45431,45431,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,1111,1634789,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,30296,30296,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,1111,1634789,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,33076,33076,0,match,No,Outstanding balances are in line with previous months
+2023-09-30,0000,1634789,4398,EUR,ALL OTHER LOANS,DEFERRED COSTS,13092,12832,260,break,Yes,Inconsistent variations in outstanding balances
+2023-10-30,0000,1634789,4398,EUR,ALL OTHER LOANS,DEFERRED COSTS,48068,48024,44,break,Yes,Inconsistent variations in outstanding balances
+2023-11-29,0000,1634789,4398,EUR,ALL OTHER LOANS,DEFERRED COSTS,23689,23085,604,break,Yes,Inconsistent variations in outstanding balances
+2023-12-29,0000,1634789,4398,EUR,ALL OTHER LOANS,DEFERRED COSTS,32981,33645,-664,break,Yes,Inconsistent variations in outstanding balances
+2024-01-28,0000,1634789,4398,EUR,ALL OTHER LOANS,DEFERRED COSTS,31485,30633,852,break,Yes,Inconsistent variations in outstanding balances
+2024-02-27,0000,1634789,4398,EUR,ALL OTHER LOANS,DEFERRED COSTS,13008,12926,82,break,Yes,Inconsistent variations in outstanding balances
+2023-09-30,2222,1619205,4398,EUR,ALL OTHER LOANS,DEFERRED COSTS,37178,37178,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,2222,1619205,4398,EUR,ALL OTHER LOANS,DEFERRED COSTS,34598,34598,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,2222,1619205,4398,EUR,ALL OTHER LOANS,DEFERRED COSTS,36573,36573,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,2222,1619205,4398,EUR,ALL OTHER LOANS,DEFERRED COSTS,10216,10216,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,2222,1619205,4398,EUR,ALL OTHER LOANS,DEFERRED COSTS,45394,45394,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,2222,1619205,4398,EUR,ALL OTHER LOANS,DEFERRED COSTS,29438,19524,9914,break,Yes,Sudden drop in IHub balance
+2023-09-30,0000,1634789,4398,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,39968,39968,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,0000,1634789,4398,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,23287,23287,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,0000,1634789,4398,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,34488,34488,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,0000,1634789,4398,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,35618,35618,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,0000,1634789,4398,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,34897,34897,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,0000,1634789,4398,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,47051,55916,-8865,break,Yes,Huge spike in outstanding balances
+2023-09-30,2222,1623456,5402,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,47518,47518,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,2222,1623456,5402,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,17235,17235,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,2222,1623456,5402,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,42660,42660,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,2222,1623456,5402,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,34555,34555,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,2222,1623456,5402,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,32932,32932,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,2222,1623456,5402,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,48391,63119,-14728,break,Yes,Huge spike in outstanding balances
+2023-09-30,0000,1634789,6783,EUR,ALL OTHER LOANS,DEFERRED COSTS,11300,11300,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,0000,1634789,6783,EUR,ALL OTHER LOANS,DEFERRED COSTS,39285,39285,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,0000,1634789,6783,EUR,ALL OTHER LOANS,DEFERRED COSTS,45731,45731,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,0000,1634789,6783,EUR,ALL OTHER LOANS,DEFERRED COSTS,13344,13344,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,0000,1634789,6783,EUR,ALL OTHER LOANS,DEFERRED COSTS,11461,11461,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,0000,1634789,6783,EUR,ALL OTHER LOANS,DEFERRED COSTS,38090,38090,0,match,No,Outstanding balances are in line with previous months
+2023-09-30,1111,1634789,5402,EUR,ALL OTHER LOANS,DEFERRED COSTS,17492,17492,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,1111,1634789,5402,EUR,ALL OTHER LOANS,DEFERRED COSTS,30304,30304,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,1111,1634789,5402,EUR,ALL OTHER LOANS,DEFERRED COSTS,27305,27305,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,1111,1634789,5402,EUR,ALL OTHER LOANS,DEFERRED COSTS,47555,47555,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,1111,1634789,5402,EUR,ALL OTHER LOANS,DEFERRED COSTS,46697,46697,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,1111,1634789,5402,EUR,ALL OTHER LOANS,DEFERRED COSTS,48316,57693,-9377,break,Yes,Huge spike in outstanding balances
+2023-09-30,2222,1634789,4398,EUR,ALL OTHER LOANS,PRINCIPAL,10376,11316,-940,break,Yes,Inconsistent variations in outstanding balances
+2023-10-30,2222,1634789,4398,EUR,ALL OTHER LOANS,PRINCIPAL,33504,34001,-497,break,Yes,Inconsistent variations in outstanding balances
+2023-11-29,2222,1634789,4398,EUR,ALL OTHER LOANS,PRINCIPAL,45162,44577,585,break,Yes,Inconsistent variations in outstanding balances
+2023-12-29,2222,1634789,4398,EUR,ALL OTHER LOANS,PRINCIPAL,48898,48239,659,break,Yes,Inconsistent variations in outstanding balances
+2024-01-28,2222,1634789,4398,EUR,ALL OTHER LOANS,PRINCIPAL,26480,26095,385,break,Yes,Inconsistent variations in outstanding balances
+2024-02-27,2222,1634789,4398,EUR,ALL OTHER LOANS,PRINCIPAL,42812,42122,690,break,Yes,Inconsistent variations in outstanding balances
+2023-09-30,1111,1623456,5402,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,34539,34539,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,1111,1623456,5402,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,26652,26652,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,1111,1623456,5402,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,17510,17510,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,1111,1623456,5402,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,38276,38276,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,1111,1623456,5402,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,48442,48442,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,1111,1623456,5402,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,36005,44174,-8169,break,Yes,Huge spike in outstanding balances
+2023-09-30,0000,1623456,5402,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,13442,12909,533,break,Yes,Inconsistent variations in outstanding balances
+2023-10-30,0000,1623456,5402,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,40411,41044,-633,break,Yes,Inconsistent variations in outstanding balances
+2023-11-29,0000,1623456,5402,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,41680,41515,165,break,Yes,Inconsistent variations in outstanding balances
+2023-12-29,0000,1623456,5402,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,23432,23094,338,break,Yes,Inconsistent variations in outstanding balances
+2024-01-28,0000,1623456,5402,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,16645,16067,578,break,Yes,Inconsistent variations in outstanding balances
+2024-02-27,0000,1623456,5402,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,49147,48514,633,break,Yes,Inconsistent variations in outstanding balances
+2023-09-30,0000,1623456,6783,USD,ALL OTHER LOANS,DEFERRED COSTS,27319,27319,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,0000,1623456,6783,USD,ALL OTHER LOANS,DEFERRED COSTS,13994,13994,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,0000,1623456,6783,USD,ALL OTHER LOANS,DEFERRED COSTS,33518,33518,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,0000,1623456,6783,USD,ALL OTHER LOANS,DEFERRED COSTS,39747,39747,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,0000,1623456,6783,USD,ALL OTHER LOANS,DEFERRED COSTS,46834,46834,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,0000,1623456,6783,USD,ALL OTHER LOANS,DEFERRED COSTS,20960,8919,12041,break,Yes,Sudden drop in IHub balance
+2023-09-30,0000,1634789,6783,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,35870,35870,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,0000,1634789,6783,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,35509,35509,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,0000,1634789,6783,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,48215,48215,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,0000,1634789,6783,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,33377,33377,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,0000,1634789,6783,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,13806,13806,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,0000,1634789,6783,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,40386,49383,-8997,break,Yes,Huge spike in outstanding balances
+2023-09-30,2222,1623456,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,16287,16287,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,2222,1623456,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,28734,28734,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,2222,1623456,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,15054,15054,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,2222,1623456,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,23190,23190,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,2222,1623456,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,42916,42916,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,2222,1623456,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,10186,24952,-14766,break,Yes,Huge spike in outstanding balances
+2023-09-30,0000,1623456,5402,USD,ALL OTHER LOANS,DEFERRED COSTS,33251,33251,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,0000,1623456,5402,USD,ALL OTHER LOANS,DEFERRED COSTS,16308,16308,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,0000,1623456,5402,USD,ALL OTHER LOANS,DEFERRED COSTS,20941,20941,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,0000,1623456,5402,USD,ALL OTHER LOANS,DEFERRED COSTS,42778,42778,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,0000,1623456,5402,USD,ALL OTHER LOANS,DEFERRED COSTS,27360,27360,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,0000,1623456,5402,USD,ALL OTHER LOANS,DEFERRED COSTS,30605,45290,-14685,break,Yes,Huge spike in outstanding balances
+2023-09-30,2222,1634789,5402,USD,ALL OTHER LOANS,PRINCIPAL,18400,18400,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,2222,1634789,5402,USD,ALL OTHER LOANS,PRINCIPAL,27093,27093,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,2222,1634789,5402,USD,ALL OTHER LOANS,PRINCIPAL,21384,21384,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,2222,1634789,5402,USD,ALL OTHER LOANS,PRINCIPAL,48383,48383,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,2222,1634789,5402,USD,ALL OTHER LOANS,PRINCIPAL,33807,33807,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,2222,1634789,5402,USD,ALL OTHER LOANS,PRINCIPAL,18027,18027,0,match,No,Outstanding balances are in line with previous months
+2023-09-30,1111,1634789,5402,USD,ALL OTHER LOANS,DEFERRED COSTS,40694,40694,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,1111,1634789,5402,USD,ALL OTHER LOANS,DEFERRED COSTS,28125,28125,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,1111,1634789,5402,USD,ALL OTHER LOANS,DEFERRED COSTS,18834,18834,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,1111,1634789,5402,USD,ALL OTHER LOANS,DEFERRED COSTS,14640,14640,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,1111,1634789,5402,USD,ALL OTHER LOANS,DEFERRED COSTS,25719,25719,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,1111,1634789,5402,USD,ALL OTHER LOANS,DEFERRED COSTS,17263,17263,0,match,No,Outstanding balances are in line with previous months
+2023-09-30,0000,1634789,5402,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,41440,41440,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,0000,1634789,5402,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,17334,17334,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,0000,1634789,5402,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,41736,41736,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,0000,1634789,5402,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,28237,28237,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,0000,1634789,5402,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,39101,39101,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,0000,1634789,5402,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,10401,10401,0,match,No,Outstanding balances are in line with previous months
+2023-09-30,0000,1623456,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,26127,26127,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,0000,1623456,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,10272,10272,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,0000,1623456,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,33264,33264,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,0000,1623456,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,47091,47091,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,0000,1623456,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,21439,21439,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,0000,1623456,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,10268,10268,0,match,No,Outstanding balances are in line with previous months
+2023-09-30,0000,1634789,5402,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,26860,27189,-329,break,Yes,Inconsistent variations in outstanding balances
+2023-10-30,0000,1634789,5402,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,43201,42340,861,break,Yes,Inconsistent variations in outstanding balances
+2023-11-29,0000,1634789,5402,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,19998,19958,40,break,Yes,Inconsistent variations in outstanding balances
+2023-12-29,0000,1634789,5402,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,45841,45331,510,break,Yes,Inconsistent variations in outstanding balances
+2024-01-28,0000,1634789,5402,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,13316,13182,134,break,Yes,Inconsistent variations in outstanding balances
+2024-02-27,0000,1634789,5402,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,12420,12929,-509,break,Yes,Inconsistent variations in outstanding balances
+2023-09-30,2222,1619205,5402,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,14506,15377,-871,break,Yes,Inconsistent variations in outstanding balances
+2023-10-30,2222,1619205,5402,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,30066,29327,739,break,Yes,Inconsistent variations in outstanding balances
+2023-11-29,2222,1619205,5402,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,22999,23580,-581,break,Yes,Inconsistent variations in outstanding balances
+2023-12-29,2222,1619205,5402,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,42046,42149,-103,break,Yes,Inconsistent variations in outstanding balances
+2024-01-28,2222,1619205,5402,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,24665,24177,488,break,Yes,Inconsistent variations in outstanding balances
+2024-02-27,2222,1619205,5402,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,12204,12266,-62,break,Yes,Inconsistent variations in outstanding balances
+2023-09-30,2222,1623456,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,48277,48277,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,2222,1623456,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,44471,44471,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,2222,1623456,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,47110,47110,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,2222,1623456,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,34432,34432,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,2222,1623456,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,43253,43253,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,2222,1623456,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,13830,2276,11554,break,Yes,Sudden drop in IHub balance
+2023-09-30,2222,1634789,6783,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,41032,41032,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,2222,1634789,6783,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,39531,39531,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,2222,1634789,6783,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,40183,40183,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,2222,1634789,6783,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,23488,23488,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,2222,1634789,6783,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,49328,49328,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,2222,1634789,6783,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,19265,32767,-13502,break,Yes,Huge spike in outstanding balances
+2023-09-30,2222,1634789,5402,EUR,ALL OTHER LOANS,DEFERRED COSTS,16550,16550,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,2222,1634789,5402,EUR,ALL OTHER LOANS,DEFERRED COSTS,20761,20761,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,2222,1634789,5402,EUR,ALL OTHER LOANS,DEFERRED COSTS,30899,30899,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,2222,1634789,5402,EUR,ALL OTHER LOANS,DEFERRED COSTS,25917,25917,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,2222,1634789,5402,EUR,ALL OTHER LOANS,DEFERRED COSTS,35344,35344,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,2222,1634789,5402,EUR,ALL OTHER LOANS,DEFERRED COSTS,16334,26407,-10073,break,Yes,Huge spike in outstanding balances
+2023-09-30,0000,1634789,5402,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,24451,24451,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,0000,1634789,5402,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,35219,35219,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,0000,1634789,5402,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,46724,46724,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,0000,1634789,5402,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,32299,32299,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,0000,1634789,5402,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,35496,35496,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,0000,1634789,5402,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,47180,47180,0,match,No,Outstanding balances are in line with previous months
+2023-09-30,1111,1619205,6783,USD,ALL OTHER LOANS,PRINCIPAL,38132,38132,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,1111,1619205,6783,USD,ALL OTHER LOANS,PRINCIPAL,12269,12269,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,1111,1619205,6783,USD,ALL OTHER LOANS,PRINCIPAL,22890,22890,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,1111,1619205,6783,USD,ALL OTHER LOANS,PRINCIPAL,23375,23375,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,1111,1619205,6783,USD,ALL OTHER LOANS,PRINCIPAL,24398,24398,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,1111,1619205,6783,USD,ALL OTHER LOANS,PRINCIPAL,45912,45912,0,match,No,Outstanding balances are in line with previous months
+2023-09-30,0000,1634789,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,20424,20424,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,0000,1634789,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,35259,35259,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,0000,1634789,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,35493,35493,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,0000,1634789,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,39826,39826,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,0000,1634789,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,40467,40467,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,0000,1634789,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,23124,31198,-8074,break,Yes,Huge spike in outstanding balances
+2023-09-30,2222,1634789,4398,EUR,ALL OTHER LOANS,DEFERRED COSTS,41319,41319,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,2222,1634789,4398,EUR,ALL OTHER LOANS,DEFERRED COSTS,32832,32832,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,2222,1634789,4398,EUR,ALL OTHER LOANS,DEFERRED COSTS,28011,28011,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,2222,1634789,4398,EUR,ALL OTHER LOANS,DEFERRED COSTS,18508,18508,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,2222,1634789,4398,EUR,ALL OTHER LOANS,DEFERRED COSTS,41238,41238,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,2222,1634789,4398,EUR,ALL OTHER LOANS,DEFERRED COSTS,47095,57864,-10769,break,Yes,Huge spike in outstanding balances
+2023-09-30,0000,1634789,6783,USD,ALL OTHER LOANS,PRINCIPAL,45235,45235,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,0000,1634789,6783,USD,ALL OTHER LOANS,PRINCIPAL,32880,32880,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,0000,1634789,6783,USD,ALL OTHER LOANS,PRINCIPAL,45979,45979,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,0000,1634789,6783,USD,ALL OTHER LOANS,PRINCIPAL,17795,17795,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,0000,1634789,6783,USD,ALL OTHER LOANS,PRINCIPAL,14697,14697,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,0000,1634789,6783,USD,ALL OTHER LOANS,PRINCIPAL,44752,44752,0,match,No,Outstanding balances are in line with previous months
+2023-09-30,2222,1634789,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,17492,17492,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,2222,1634789,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,36940,36940,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,2222,1634789,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,34282,34282,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,2222,1634789,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,38798,38798,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,2222,1634789,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,33646,33646,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,2222,1634789,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,16169,11037,5132,break,Yes,Sudden drop in IHub balance
+2023-09-30,2222,1619205,5402,EUR,ALL OTHER LOANS,DEFERRED COSTS,30798,30798,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,2222,1619205,5402,EUR,ALL OTHER LOANS,DEFERRED COSTS,14198,14198,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,2222,1619205,5402,EUR,ALL OTHER LOANS,DEFERRED COSTS,13648,13648,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,2222,1619205,5402,EUR,ALL OTHER LOANS,DEFERRED COSTS,49224,49224,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,2222,1619205,5402,EUR,ALL OTHER LOANS,DEFERRED COSTS,32717,32717,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,2222,1619205,5402,EUR,ALL OTHER LOANS,DEFERRED COSTS,29126,29126,0,match,No,Outstanding balances are in line with previous months
+2023-09-30,1111,1634789,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,13345,13345,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,1111,1634789,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,35064,35064,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,1111,1634789,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,22946,22946,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,1111,1634789,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,10671,10671,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,1111,1634789,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,23674,23674,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,1111,1634789,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,33694,44571,-10877,break,Yes,Huge spike in outstanding balances
+2023-09-30,2222,1634789,5402,EUR,ALL OTHER LOANS,PRINCIPAL,41035,41035,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,2222,1634789,5402,EUR,ALL OTHER LOANS,PRINCIPAL,32886,32886,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,2222,1634789,5402,EUR,ALL OTHER LOANS,PRINCIPAL,17640,17640,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,2222,1634789,5402,EUR,ALL OTHER LOANS,PRINCIPAL,17365,17365,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,2222,1634789,5402,EUR,ALL OTHER LOANS,PRINCIPAL,47648,47648,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,2222,1634789,5402,EUR,ALL OTHER LOANS,PRINCIPAL,42563,42563,0,match,No,Outstanding balances are in line with previous months
+2023-09-30,2222,1619205,5402,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,13245,12694,551,break,Yes,Inconsistent variations in outstanding balances
+2023-10-30,2222,1619205,5402,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,17619,17826,-207,break,Yes,Inconsistent variations in outstanding balances
+2023-11-29,2222,1619205,5402,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,48648,48534,114,break,Yes,Inconsistent variations in outstanding balances
+2023-12-29,2222,1619205,5402,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,25194,24428,766,break,Yes,Inconsistent variations in outstanding balances
+2024-01-28,2222,1619205,5402,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,32797,32025,772,break,Yes,Inconsistent variations in outstanding balances
+2024-02-27,2222,1619205,5402,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,38630,38675,-45,break,Yes,Inconsistent variations in outstanding balances
+2023-09-30,0000,1634789,6783,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,25992,25992,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,0000,1634789,6783,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,11179,11179,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,0000,1634789,6783,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,31438,31438,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,0000,1634789,6783,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,26158,26158,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,0000,1634789,6783,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,28349,28349,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,0000,1634789,6783,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,12838,12838,0,match,No,Outstanding balances are in line with previous months
+2023-09-30,0000,1634789,5402,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,12070,12070,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,0000,1634789,5402,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,44296,44296,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,0000,1634789,5402,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,45980,45980,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,0000,1634789,5402,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,49072,49072,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,0000,1634789,5402,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,14975,14975,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,0000,1634789,5402,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,23911,23911,0,match,No,Outstanding balances are in line with previous months
+2023-09-30,1111,1623456,4398,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,24252,24252,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,1111,1623456,4398,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,34559,34559,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,1111,1623456,4398,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,39952,39952,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,1111,1623456,4398,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,33464,33464,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,1111,1623456,4398,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,32293,32293,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,1111,1623456,4398,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,31224,31224,0,match,No,Outstanding balances are in line with previous months
+2023-09-30,0000,1634789,5402,USD,ALL OTHER LOANS,PRINCIPAL,35686,35686,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,0000,1634789,5402,USD,ALL OTHER LOANS,PRINCIPAL,44603,44603,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,0000,1634789,5402,USD,ALL OTHER LOANS,PRINCIPAL,21701,21701,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,0000,1634789,5402,USD,ALL OTHER LOANS,PRINCIPAL,16693,16693,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,0000,1634789,5402,USD,ALL OTHER LOANS,PRINCIPAL,22747,22747,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,0000,1634789,5402,USD,ALL OTHER LOANS,PRINCIPAL,28426,14767,13659,break,Yes,Sudden drop in IHub balance
+2023-09-30,1111,1623456,6783,EUR,ALL OTHER LOANS,DEFERRED COSTS,20165,20165,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,1111,1623456,6783,EUR,ALL OTHER LOANS,DEFERRED COSTS,14447,14447,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,1111,1623456,6783,EUR,ALL OTHER LOANS,DEFERRED COSTS,44081,44081,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,1111,1623456,6783,EUR,ALL OTHER LOANS,DEFERRED COSTS,12898,12898,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,1111,1623456,6783,EUR,ALL OTHER LOANS,DEFERRED COSTS,39429,39429,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,1111,1623456,6783,EUR,ALL OTHER LOANS,DEFERRED COSTS,41270,30407,10863,break,Yes,Sudden drop in IHub balance
+2023-09-30,2222,1634789,5402,USD,ALL OTHER LOANS,PRINCIPAL,19436,19436,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,2222,1634789,5402,USD,ALL OTHER LOANS,PRINCIPAL,21145,21145,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,2222,1634789,5402,USD,ALL OTHER LOANS,PRINCIPAL,46094,46094,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,2222,1634789,5402,USD,ALL OTHER LOANS,PRINCIPAL,40341,40341,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,2222,1634789,5402,USD,ALL OTHER LOANS,PRINCIPAL,46102,46102,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,2222,1634789,5402,USD,ALL OTHER LOANS,PRINCIPAL,24793,24793,0,match,No,Outstanding balances are in line with previous months
+2023-09-30,0000,1623456,5402,USD,ALL OTHER LOANS,DEFERRED COSTS,41923,41923,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,0000,1623456,5402,USD,ALL OTHER LOANS,DEFERRED COSTS,21959,21959,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,0000,1623456,5402,USD,ALL OTHER LOANS,DEFERRED COSTS,42642,42642,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,0000,1623456,5402,USD,ALL OTHER LOANS,DEFERRED COSTS,45289,45289,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,0000,1623456,5402,USD,ALL OTHER LOANS,DEFERRED COSTS,27406,27406,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,0000,1623456,5402,USD,ALL OTHER LOANS,DEFERRED COSTS,28976,28976,0,match,No,Outstanding balances are in line with previous months
+2023-09-30,2222,1619205,6783,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,30421,31306,-885,break,Yes,Inconsistent variations in outstanding balances
+2023-10-30,2222,1619205,6783,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,23270,23425,-155,break,Yes,Inconsistent variations in outstanding balances
+2023-11-29,2222,1619205,6783,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,11213,11178,35,break,Yes,Inconsistent variations in outstanding balances
+2023-12-29,2222,1619205,6783,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,26663,25784,879,break,Yes,Inconsistent variations in outstanding balances
+2024-01-28,2222,1619205,6783,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,12902,12086,816,break,Yes,Inconsistent variations in outstanding balances
+2024-02-27,2222,1619205,6783,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,40527,40797,-270,break,Yes,Inconsistent variations in outstanding balances
+2023-09-30,2222,1619205,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,48860,49594,-734,break,Yes,Inconsistent variations in outstanding balances
+2023-10-30,2222,1619205,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,45173,44295,878,break,Yes,Inconsistent variations in outstanding balances
+2023-11-29,2222,1619205,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,27468,28154,-686,break,Yes,Inconsistent variations in outstanding balances
+2023-12-29,2222,1619205,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,33265,34264,-999,break,Yes,Inconsistent variations in outstanding balances
+2024-01-28,2222,1619205,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,36937,37312,-375,break,Yes,Inconsistent variations in outstanding balances
+2024-02-27,2222,1619205,4398,EUR,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,34658,34890,-232,break,Yes,Inconsistent variations in outstanding balances
+2023-09-30,1111,1623456,6783,EUR,ALL OTHER LOANS,PRINCIPAL,46872,46872,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,1111,1623456,6783,EUR,ALL OTHER LOANS,PRINCIPAL,14633,14633,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,1111,1623456,6783,EUR,ALL OTHER LOANS,PRINCIPAL,37022,37022,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,1111,1623456,6783,EUR,ALL OTHER LOANS,PRINCIPAL,21365,21365,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,1111,1623456,6783,EUR,ALL OTHER LOANS,PRINCIPAL,42109,42109,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,1111,1623456,6783,EUR,ALL OTHER LOANS,PRINCIPAL,14412,4341,10071,break,Yes,Sudden drop in IHub balance
+2023-09-30,0000,1619205,4398,USD,ALL OTHER LOANS,PRINCIPAL,38649,38096,553,break,Yes,Inconsistent variations in outstanding balances
+2023-10-30,0000,1619205,4398,USD,ALL OTHER LOANS,PRINCIPAL,21327,21629,-302,break,Yes,Inconsistent variations in outstanding balances
+2023-11-29,0000,1619205,4398,USD,ALL OTHER LOANS,PRINCIPAL,26569,25676,893,break,Yes,Inconsistent variations in outstanding balances
+2023-12-29,0000,1619205,4398,USD,ALL OTHER LOANS,PRINCIPAL,27222,27028,194,break,Yes,Inconsistent variations in outstanding balances
+2024-01-28,0000,1619205,4398,USD,ALL OTHER LOANS,PRINCIPAL,24746,24131,615,break,Yes,Inconsistent variations in outstanding balances
+2024-02-27,0000,1619205,4398,USD,ALL OTHER LOANS,PRINCIPAL,38600,37724,876,break,Yes,Inconsistent variations in outstanding balances
+2023-09-30,1111,1634789,6783,EUR,ALL OTHER LOANS,DEFERRED COSTS,15104,15104,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,1111,1634789,6783,EUR,ALL OTHER LOANS,DEFERRED COSTS,12646,12646,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,1111,1634789,6783,EUR,ALL OTHER LOANS,DEFERRED COSTS,46251,46251,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,1111,1634789,6783,EUR,ALL OTHER LOANS,DEFERRED COSTS,18445,18445,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,1111,1634789,6783,EUR,ALL OTHER LOANS,DEFERRED COSTS,28754,28754,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,1111,1634789,6783,EUR,ALL OTHER LOANS,DEFERRED COSTS,48457,48457,0,match,No,Outstanding balances are in line with previous months
+2023-09-30,1111,1619205,5402,USD,ALL OTHER LOANS,PRINCIPAL,21135,21135,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,1111,1619205,5402,USD,ALL OTHER LOANS,PRINCIPAL,24929,24929,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,1111,1619205,5402,USD,ALL OTHER LOANS,PRINCIPAL,33335,33335,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,1111,1619205,5402,USD,ALL OTHER LOANS,PRINCIPAL,18790,18790,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,1111,1619205,5402,USD,ALL OTHER LOANS,PRINCIPAL,13867,13867,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,1111,1619205,5402,USD,ALL OTHER LOANS,PRINCIPAL,11259,11259,0,match,No,Outstanding balances are in line with previous months
+2023-09-30,1111,1619205,6783,EUR,ALL OTHER LOANS,DEFERRED COSTS,27050,27050,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,1111,1619205,6783,EUR,ALL OTHER LOANS,DEFERRED COSTS,11322,11322,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,1111,1619205,6783,EUR,ALL OTHER LOANS,DEFERRED COSTS,13826,13826,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,1111,1619205,6783,EUR,ALL OTHER LOANS,DEFERRED COSTS,10814,10814,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,1111,1619205,6783,EUR,ALL OTHER LOANS,DEFERRED COSTS,34509,34509,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,1111,1619205,6783,EUR,ALL OTHER LOANS,DEFERRED COSTS,16154,16154,0,match,No,Outstanding balances are in line with previous months
+2023-09-30,2222,1623456,5402,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,20135,20135,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,2222,1623456,5402,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,16678,16678,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,2222,1623456,5402,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,10683,10683,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,2222,1623456,5402,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,45697,45697,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,2222,1623456,5402,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,30895,30895,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,2222,1623456,5402,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,33647,33647,0,match,No,Outstanding balances are in line with previous months
+2023-09-30,1111,1619205,6783,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,37899,37899,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,1111,1619205,6783,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,41471,41471,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,1111,1619205,6783,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,25681,25681,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,1111,1619205,6783,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,23026,23026,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,1111,1619205,6783,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,25535,25535,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,1111,1619205,6783,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,31023,37573,-6550,break,Yes,Huge spike in outstanding balances
+2023-09-30,2222,1623456,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,29044,29044,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,2222,1623456,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,34551,34551,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,2222,1623456,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,27567,27567,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,2222,1623456,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,18078,18078,0,match,No,Outstanding balances are in line with previous months
+2024-01-28,2222,1623456,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,15615,15615,0,match,No,Outstanding balances are in line with previous months
+2024-02-27,2222,1623456,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,45771,45771,0,match,No,Outstanding balances are in line with previous months
+2023-09-30,2222,1634789,4398,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,23397,23397,0,match,No,Outstanding balances are in line with previous months
+2023-10-30,2222,1634789,4398,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,29251,29251,0,match,No,Outstanding balances are in line with previous months
+2023-11-29,2222,1634789,4398,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,11360,11360,0,match,No,Outstanding balances are in line with previous months
+2023-12-29,2222,1634789,4398,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,16693,16693,0,match,No,Outstanding balances are in line with previous months
