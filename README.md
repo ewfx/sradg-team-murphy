@@ -57,7 +57,7 @@ Describe the major technical or non-technical challenges your team encountered.
 
 ## 👥 Team
 - **Muralidharan Balanandan** - [GitHub](https://github.com/muralidharan-rade/) | [LinkedIn](https://www.linkedin.com/in/muralidharan-balanandan/)
-- **Teammate 2** - [GitHub](#) | [LinkedIn](#)
-- **Teammate 3** - [GitHub](#) | [LinkedIn](#)
-- **Teammate 4** - [GitHub](#) | [LinkedIn](#)
-- **Teammate 5** - [GitHub](#) | [LinkedIn](#)
+- **Rajagopalan Krishnamoorthy** - [GitHub](#) | [LinkedIn](#)
+- **Madhan Kumar B** - [GitHub](#) | [LinkedIn](#)
+- **Sathyendran A** - [GitHub](#) | [LinkedIn](#)
+- **Prakash G** - [GitHub](#) | [LinkedIn](#)
