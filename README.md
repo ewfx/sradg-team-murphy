@@ -33,9 +33,9 @@ What inspired you to create this project? Describe the problem you're solving.
 
 ## ⚙️ What It Does
 - Highly configurable with addition of new reconciliation systems with varying data structures with REST APIs and UX
-- Agentic AI with LangGraph provides autonomous agents and flexibility to switch models
-- Leveraging RAG provides capabilities to send additional data for reasoning
-- Tool calling capabilities leveraged for action decisioning based on external data
+- **Agentic AI with LangGraph** provides autonomous agents and flexibility to switch models
+- Leveraging **RAG** provides capabilities to send additional data for reasoning
+- **Tool calling capabilities** leveraged for action decisioning based on external data
 
 
 ## 🛠️ How We Built It
