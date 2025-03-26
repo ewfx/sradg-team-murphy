@@ -20,7 +20,7 @@ OPENAI_BASE_URL = config["base_url"]
 
 client = OpenAI(api_key=OPENROUTER_API_KEY, base_url=OPENAI_BASE_URL)
 gemini_client = OpenAI(api_key=GEMINE_API_KEY, base_url=OPENAI_BASE_URL)
-mistral_client = OpenAI(api_key="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", base_url=OPENAI_BASE_URL)
+mistral_client = OpenAI(api_key=MISTRAL_API_KEY, base_url=OPENAI_BASE_URL)
 
 db = SQLiteDB()
 # Load historical data from a CSV file
